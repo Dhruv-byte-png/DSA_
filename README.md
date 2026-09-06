@@ -1,4 +1,14 @@
 # DSA_
+# 🚀 My DSA Journey
+
+This repository marks the **beginning of my journey into Data Structures & Algorithms (DSA)**.
+
+I'll be using this repo to document the problems I solve, the concepts I learn, and the progress I make along the way.
+
+I'm starting from the basics and gradually working towards becoming better at **problem-solving, logic building, and competitive programming**.
+
+This is just the beginning. 🌱
+
 <!---LeetCode Topics Start-->
 # LeetCode Topics
 ## Array
