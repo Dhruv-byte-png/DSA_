@@ -53,4 +53,12 @@
 |  |
 | ------- |
 | [0523-continuous-subarray-sum](https://github.com/Dhruv-byte-png/DSA_/tree/master/0523-continuous-subarray-sum) |
+## Linked List
+|  |
+| ------- |
+| [0061-rotate-list](https://github.com/Dhruv-byte-png/DSA_/tree/master/0061-rotate-list) |
+## Two Pointers
+|  |
+| ------- |
+| [0061-rotate-list](https://github.com/Dhruv-byte-png/DSA_/tree/master/0061-rotate-list) |
 <!---LeetCode Topics End-->
