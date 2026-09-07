@@ -22,6 +22,7 @@ This is just the beginning. 🌱
 ## Math
 |  |
 | ------- |
+| [0292-nim-game](https://github.com/Dhruv-byte-png/DSA_/tree/master/0292-nim-game) |
 | [0523-continuous-subarray-sum](https://github.com/Dhruv-byte-png/DSA_/tree/master/0523-continuous-subarray-sum) |
 | [3876-construct-uniform-parity-array-ii](https://github.com/Dhruv-byte-png/DSA_/tree/master/3876-construct-uniform-parity-array-ii) |
 ## Hash Table
@@ -71,4 +72,24 @@ This is just the beginning. 🌱
 |  |
 | ------- |
 | [0061-rotate-list](https://github.com/Dhruv-byte-png/DSA_/tree/master/0061-rotate-list) |
+## Brainteaser
+|  |
+| ------- |
+| [0292-nim-game](https://github.com/Dhruv-byte-png/DSA_/tree/master/0292-nim-game) |
+## Minimax
+|  |
+| ------- |
+| [0292-nim-game](https://github.com/Dhruv-byte-png/DSA_/tree/master/0292-nim-game) |
+## Game Theory
+|  |
+| ------- |
+| [0292-nim-game](https://github.com/Dhruv-byte-png/DSA_/tree/master/0292-nim-game) |
+## Nim Game
+|  |
+| ------- |
+| [0292-nim-game](https://github.com/Dhruv-byte-png/DSA_/tree/master/0292-nim-game) |
+## Impartial Game
+|  |
+| ------- |
+| [0292-nim-game](https://github.com/Dhruv-byte-png/DSA_/tree/master/0292-nim-game) |
 <!---LeetCode Topics End-->
