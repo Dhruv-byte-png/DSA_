@@ -22,6 +22,7 @@ This is just the beginning. 🌱
 ## Math
 |  |
 | ------- |
+| [0002-add-two-numbers](https://github.com/Dhruv-byte-png/DSA_/tree/master/0002-add-two-numbers) |
 | [0292-nim-game](https://github.com/Dhruv-byte-png/DSA_/tree/master/0292-nim-game) |
 | [0523-continuous-subarray-sum](https://github.com/Dhruv-byte-png/DSA_/tree/master/0523-continuous-subarray-sum) |
 | [3870-count-commas-in-range](https://github.com/Dhruv-byte-png/DSA_/tree/master/3870-count-commas-in-range) |
@@ -68,6 +69,7 @@ This is just the beginning. 🌱
 ## Linked List
 |  |
 | ------- |
+| [0002-add-two-numbers](https://github.com/Dhruv-byte-png/DSA_/tree/master/0002-add-two-numbers) |
 | [0061-rotate-list](https://github.com/Dhruv-byte-png/DSA_/tree/master/0061-rotate-list) |
 ## Two Pointers
 |  |
@@ -93,4 +95,8 @@ This is just the beginning. 🌱
 |  |
 | ------- |
 | [0292-nim-game](https://github.com/Dhruv-byte-png/DSA_/tree/master/0292-nim-game) |
+## Recursion
+|  |
+| ------- |
+| [0002-add-two-numbers](https://github.com/Dhruv-byte-png/DSA_/tree/master/0002-add-two-numbers) |
 <!---LeetCode Topics End-->
