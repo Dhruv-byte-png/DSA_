@@ -30,6 +30,7 @@ This is just the beginning. 🌱
 ## Hash Table
 |  |
 | ------- |
+| [0141-linked-list-cycle](https://github.com/Dhruv-byte-png/DSA_/tree/master/0141-linked-list-cycle) |
 | [0347-top-k-frequent-elements](https://github.com/Dhruv-byte-png/DSA_/tree/master/0347-top-k-frequent-elements) |
 | [0523-continuous-subarray-sum](https://github.com/Dhruv-byte-png/DSA_/tree/master/0523-continuous-subarray-sum) |
 ## Divide and Conquer
@@ -71,10 +72,12 @@ This is just the beginning. 🌱
 | ------- |
 | [0002-add-two-numbers](https://github.com/Dhruv-byte-png/DSA_/tree/master/0002-add-two-numbers) |
 | [0061-rotate-list](https://github.com/Dhruv-byte-png/DSA_/tree/master/0061-rotate-list) |
+| [0141-linked-list-cycle](https://github.com/Dhruv-byte-png/DSA_/tree/master/0141-linked-list-cycle) |
 ## Two Pointers
 |  |
 | ------- |
 | [0061-rotate-list](https://github.com/Dhruv-byte-png/DSA_/tree/master/0061-rotate-list) |
+| [0141-linked-list-cycle](https://github.com/Dhruv-byte-png/DSA_/tree/master/0141-linked-list-cycle) |
 ## Brainteaser
 |  |
 | ------- |
@@ -99,4 +102,8 @@ This is just the beginning. 🌱
 |  |
 | ------- |
 | [0002-add-two-numbers](https://github.com/Dhruv-byte-png/DSA_/tree/master/0002-add-two-numbers) |
+## Floyd's Cycle Finding Algorithm
+|  |
+| ------- |
+| [0141-linked-list-cycle](https://github.com/Dhruv-byte-png/DSA_/tree/master/0141-linked-list-cycle) |
 <!---LeetCode Topics End-->
