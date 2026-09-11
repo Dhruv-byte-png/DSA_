@@ -16,6 +16,7 @@ This is just the beginning. 🌱
 | ------- |
 | [0347-top-k-frequent-elements](https://github.com/Dhruv-byte-png/DSA_/tree/master/0347-top-k-frequent-elements) |
 | [0523-continuous-subarray-sum](https://github.com/Dhruv-byte-png/DSA_/tree/master/0523-continuous-subarray-sum) |
+| [3483-unique-3-digit-even-numbers](https://github.com/Dhruv-byte-png/DSA_/tree/master/3483-unique-3-digit-even-numbers) |
 | [3876-construct-uniform-parity-array-ii](https://github.com/Dhruv-byte-png/DSA_/tree/master/3876-construct-uniform-parity-array-ii) |
 | [3903-smallest-stable-index-i](https://github.com/Dhruv-byte-png/DSA_/tree/master/3903-smallest-stable-index-i) |
 | [3904-smallest-stable-index-ii](https://github.com/Dhruv-byte-png/DSA_/tree/master/3904-smallest-stable-index-ii) |
@@ -34,6 +35,7 @@ This is just the beginning. 🌱
 | [0142-linked-list-cycle-ii](https://github.com/Dhruv-byte-png/DSA_/tree/master/0142-linked-list-cycle-ii) |
 | [0347-top-k-frequent-elements](https://github.com/Dhruv-byte-png/DSA_/tree/master/0347-top-k-frequent-elements) |
 | [0523-continuous-subarray-sum](https://github.com/Dhruv-byte-png/DSA_/tree/master/0523-continuous-subarray-sum) |
+| [3483-unique-3-digit-even-numbers](https://github.com/Dhruv-byte-png/DSA_/tree/master/3483-unique-3-digit-even-numbers) |
 ## Divide and Conquer
 |  |
 | ------- |
@@ -107,9 +109,14 @@ This is just the beginning. 🌱
 |  |
 | ------- |
 | [0002-add-two-numbers](https://github.com/Dhruv-byte-png/DSA_/tree/master/0002-add-two-numbers) |
+| [3483-unique-3-digit-even-numbers](https://github.com/Dhruv-byte-png/DSA_/tree/master/3483-unique-3-digit-even-numbers) |
 ## Floyd's Cycle Finding Algorithm
 |  |
 | ------- |
 | [0141-linked-list-cycle](https://github.com/Dhruv-byte-png/DSA_/tree/master/0141-linked-list-cycle) |
 | [0142-linked-list-cycle-ii](https://github.com/Dhruv-byte-png/DSA_/tree/master/0142-linked-list-cycle-ii) |
+## Enumeration
+|  |
+| ------- |
+| [3483-unique-3-digit-even-numbers](https://github.com/Dhruv-byte-png/DSA_/tree/master/3483-unique-3-digit-even-numbers) |
 <!---LeetCode Topics End-->
