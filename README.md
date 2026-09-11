@@ -16,6 +16,7 @@ This is just the beginning. 🌱
 | ------- |
 | [0347-top-k-frequent-elements](https://github.com/Dhruv-byte-png/DSA_/tree/master/0347-top-k-frequent-elements) |
 | [0523-continuous-subarray-sum](https://github.com/Dhruv-byte-png/DSA_/tree/master/0523-continuous-subarray-sum) |
+| [1913-maximum-product-difference-between-two-pairs](https://github.com/Dhruv-byte-png/DSA_/tree/master/1913-maximum-product-difference-between-two-pairs) |
 | [3483-unique-3-digit-even-numbers](https://github.com/Dhruv-byte-png/DSA_/tree/master/3483-unique-3-digit-even-numbers) |
 | [3876-construct-uniform-parity-array-ii](https://github.com/Dhruv-byte-png/DSA_/tree/master/3876-construct-uniform-parity-array-ii) |
 | [3903-smallest-stable-index-i](https://github.com/Dhruv-byte-png/DSA_/tree/master/3903-smallest-stable-index-i) |
@@ -44,6 +45,7 @@ This is just the beginning. 🌱
 |  |
 | ------- |
 | [0347-top-k-frequent-elements](https://github.com/Dhruv-byte-png/DSA_/tree/master/0347-top-k-frequent-elements) |
+| [1913-maximum-product-difference-between-two-pairs](https://github.com/Dhruv-byte-png/DSA_/tree/master/1913-maximum-product-difference-between-two-pairs) |
 ## Heap (Priority Queue)
 |  |
 | ------- |
@@ -119,4 +121,8 @@ This is just the beginning. 🌱
 |  |
 | ------- |
 | [3483-unique-3-digit-even-numbers](https://github.com/Dhruv-byte-png/DSA_/tree/master/3483-unique-3-digit-even-numbers) |
+## Quicksort
+|  |
+| ------- |
+| [1913-maximum-product-difference-between-two-pairs](https://github.com/Dhruv-byte-png/DSA_/tree/master/1913-maximum-product-difference-between-two-pairs) |
 <!---LeetCode Topics End-->
