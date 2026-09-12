@@ -17,6 +17,7 @@ This is just the beginning. 🌱
 | [0049-group-anagrams](https://github.com/Dhruv-byte-png/DSA_/tree/master/0049-group-anagrams) |
 | [0347-top-k-frequent-elements](https://github.com/Dhruv-byte-png/DSA_/tree/master/0347-top-k-frequent-elements) |
 | [0523-continuous-subarray-sum](https://github.com/Dhruv-byte-png/DSA_/tree/master/0523-continuous-subarray-sum) |
+| [1089-duplicate-zeros](https://github.com/Dhruv-byte-png/DSA_/tree/master/1089-duplicate-zeros) |
 | [1913-maximum-product-difference-between-two-pairs](https://github.com/Dhruv-byte-png/DSA_/tree/master/1913-maximum-product-difference-between-two-pairs) |
 | [3483-unique-3-digit-even-numbers](https://github.com/Dhruv-byte-png/DSA_/tree/master/3483-unique-3-digit-even-numbers) |
 | [3876-construct-uniform-parity-array-ii](https://github.com/Dhruv-byte-png/DSA_/tree/master/3876-construct-uniform-parity-array-ii) |
@@ -90,6 +91,7 @@ This is just the beginning. 🌱
 | [0082-remove-duplicates-from-sorted-list-ii](https://github.com/Dhruv-byte-png/DSA_/tree/master/0082-remove-duplicates-from-sorted-list-ii) |
 | [0141-linked-list-cycle](https://github.com/Dhruv-byte-png/DSA_/tree/master/0141-linked-list-cycle) |
 | [0142-linked-list-cycle-ii](https://github.com/Dhruv-byte-png/DSA_/tree/master/0142-linked-list-cycle-ii) |
+| [1089-duplicate-zeros](https://github.com/Dhruv-byte-png/DSA_/tree/master/1089-duplicate-zeros) |
 ## Brainteaser
 |  |
 | ------- |
