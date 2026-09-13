@@ -16,6 +16,7 @@ This is just the beginning. 🌱
 | ------- |
 | [0049-group-anagrams](https://github.com/Dhruv-byte-png/DSA_/tree/master/0049-group-anagrams) |
 | [0347-top-k-frequent-elements](https://github.com/Dhruv-byte-png/DSA_/tree/master/0347-top-k-frequent-elements) |
+| [0350-intersection-of-two-arrays-ii](https://github.com/Dhruv-byte-png/DSA_/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0523-continuous-subarray-sum](https://github.com/Dhruv-byte-png/DSA_/tree/master/0523-continuous-subarray-sum) |
 | [0929-unique-email-addresses](https://github.com/Dhruv-byte-png/DSA_/tree/master/0929-unique-email-addresses) |
 | [1089-duplicate-zeros](https://github.com/Dhruv-byte-png/DSA_/tree/master/1089-duplicate-zeros) |
@@ -40,6 +41,7 @@ This is just the beginning. 🌱
 | [0141-linked-list-cycle](https://github.com/Dhruv-byte-png/DSA_/tree/master/0141-linked-list-cycle) |
 | [0142-linked-list-cycle-ii](https://github.com/Dhruv-byte-png/DSA_/tree/master/0142-linked-list-cycle-ii) |
 | [0347-top-k-frequent-elements](https://github.com/Dhruv-byte-png/DSA_/tree/master/0347-top-k-frequent-elements) |
+| [0350-intersection-of-two-arrays-ii](https://github.com/Dhruv-byte-png/DSA_/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0523-continuous-subarray-sum](https://github.com/Dhruv-byte-png/DSA_/tree/master/0523-continuous-subarray-sum) |
 | [0929-unique-email-addresses](https://github.com/Dhruv-byte-png/DSA_/tree/master/0929-unique-email-addresses) |
 | [1122-relative-sort-array](https://github.com/Dhruv-byte-png/DSA_/tree/master/1122-relative-sort-array) |
@@ -53,6 +55,7 @@ This is just the beginning. 🌱
 | ------- |
 | [0049-group-anagrams](https://github.com/Dhruv-byte-png/DSA_/tree/master/0049-group-anagrams) |
 | [0347-top-k-frequent-elements](https://github.com/Dhruv-byte-png/DSA_/tree/master/0347-top-k-frequent-elements) |
+| [0350-intersection-of-two-arrays-ii](https://github.com/Dhruv-byte-png/DSA_/tree/master/0350-intersection-of-two-arrays-ii) |
 | [1122-relative-sort-array](https://github.com/Dhruv-byte-png/DSA_/tree/master/1122-relative-sort-array) |
 | [1913-maximum-product-difference-between-two-pairs](https://github.com/Dhruv-byte-png/DSA_/tree/master/1913-maximum-product-difference-between-two-pairs) |
 ## Heap (Priority Queue)
@@ -96,6 +99,7 @@ This is just the beginning. 🌱
 | [0082-remove-duplicates-from-sorted-list-ii](https://github.com/Dhruv-byte-png/DSA_/tree/master/0082-remove-duplicates-from-sorted-list-ii) |
 | [0141-linked-list-cycle](https://github.com/Dhruv-byte-png/DSA_/tree/master/0141-linked-list-cycle) |
 | [0142-linked-list-cycle-ii](https://github.com/Dhruv-byte-png/DSA_/tree/master/0142-linked-list-cycle-ii) |
+| [0350-intersection-of-two-arrays-ii](https://github.com/Dhruv-byte-png/DSA_/tree/master/0350-intersection-of-two-arrays-ii) |
 | [1089-duplicate-zeros](https://github.com/Dhruv-byte-png/DSA_/tree/master/1089-duplicate-zeros) |
 ## Brainteaser
 |  |
@@ -149,4 +153,8 @@ This is just the beginning. 🌱
 |  |
 | ------- |
 | [1122-relative-sort-array](https://github.com/Dhruv-byte-png/DSA_/tree/master/1122-relative-sort-array) |
+## Binary Search
+|  |
+| ------- |
+| [0350-intersection-of-two-arrays-ii](https://github.com/Dhruv-byte-png/DSA_/tree/master/0350-intersection-of-two-arrays-ii) |
 <!---LeetCode Topics End-->
