@@ -17,6 +17,7 @@ This is just the beginning. 🌱
 | [0049-group-anagrams](https://github.com/Dhruv-byte-png/DSA_/tree/master/0049-group-anagrams) |
 | [0081-search-in-rotated-sorted-array-ii](https://github.com/Dhruv-byte-png/DSA_/tree/master/0081-search-in-rotated-sorted-array-ii) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/Dhruv-byte-png/DSA_/tree/master/0153-find-minimum-in-rotated-sorted-array) |
+| [0229-majority-element-ii](https://github.com/Dhruv-byte-png/DSA_/tree/master/0229-majority-element-ii) |
 | [0347-top-k-frequent-elements](https://github.com/Dhruv-byte-png/DSA_/tree/master/0347-top-k-frequent-elements) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/Dhruv-byte-png/DSA_/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0523-continuous-subarray-sum](https://github.com/Dhruv-byte-png/DSA_/tree/master/0523-continuous-subarray-sum) |
@@ -44,6 +45,7 @@ This is just the beginning. 🌱
 | [0049-group-anagrams](https://github.com/Dhruv-byte-png/DSA_/tree/master/0049-group-anagrams) |
 | [0141-linked-list-cycle](https://github.com/Dhruv-byte-png/DSA_/tree/master/0141-linked-list-cycle) |
 | [0142-linked-list-cycle-ii](https://github.com/Dhruv-byte-png/DSA_/tree/master/0142-linked-list-cycle-ii) |
+| [0229-majority-element-ii](https://github.com/Dhruv-byte-png/DSA_/tree/master/0229-majority-element-ii) |
 | [0347-top-k-frequent-elements](https://github.com/Dhruv-byte-png/DSA_/tree/master/0347-top-k-frequent-elements) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/Dhruv-byte-png/DSA_/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0523-continuous-subarray-sum](https://github.com/Dhruv-byte-png/DSA_/tree/master/0523-continuous-subarray-sum) |
@@ -58,6 +60,7 @@ This is just the beginning. 🌱
 |  |
 | ------- |
 | [0049-group-anagrams](https://github.com/Dhruv-byte-png/DSA_/tree/master/0049-group-anagrams) |
+| [0229-majority-element-ii](https://github.com/Dhruv-byte-png/DSA_/tree/master/0229-majority-element-ii) |
 | [0347-top-k-frequent-elements](https://github.com/Dhruv-byte-png/DSA_/tree/master/0347-top-k-frequent-elements) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/Dhruv-byte-png/DSA_/tree/master/0350-intersection-of-two-arrays-ii) |
 | [1122-relative-sort-array](https://github.com/Dhruv-byte-png/DSA_/tree/master/1122-relative-sort-array) |
@@ -73,6 +76,7 @@ This is just the beginning. 🌱
 ## Counting
 |  |
 | ------- |
+| [0229-majority-element-ii](https://github.com/Dhruv-byte-png/DSA_/tree/master/0229-majority-element-ii) |
 | [0347-top-k-frequent-elements](https://github.com/Dhruv-byte-png/DSA_/tree/master/0347-top-k-frequent-elements) |
 ## Quickselect
 |  |
@@ -167,4 +171,8 @@ This is just the beginning. 🌱
 |  |
 | ------- |
 | [0836-rectangle-overlap](https://github.com/Dhruv-byte-png/DSA_/tree/master/0836-rectangle-overlap) |
+## Boyer–Moore Majority Vote Algorithm
+|  |
+| ------- |
+| [0229-majority-element-ii](https://github.com/Dhruv-byte-png/DSA_/tree/master/0229-majority-element-ii) |
 <!---LeetCode Topics End-->
