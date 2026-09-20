@@ -153,6 +153,7 @@ This is just the beginning. 🌱
 | ------- |
 | [0049-group-anagrams](https://github.com/Dhruv-byte-png/DSA_/tree/master/0049-group-anagrams) |
 | [0929-unique-email-addresses](https://github.com/Dhruv-byte-png/DSA_/tree/master/0929-unique-email-addresses) |
+| [3498-reverse-degree-of-a-string](https://github.com/Dhruv-byte-png/DSA_/tree/master/3498-reverse-degree-of-a-string) |
 ## Counting Sort
 |  |
 | ------- |
@@ -175,4 +176,8 @@ This is just the beginning. 🌱
 |  |
 | ------- |
 | [0229-majority-element-ii](https://github.com/Dhruv-byte-png/DSA_/tree/master/0229-majority-element-ii) |
+## Simulation
+|  |
+| ------- |
+| [3498-reverse-degree-of-a-string](https://github.com/Dhruv-byte-png/DSA_/tree/master/3498-reverse-degree-of-a-string) |
 <!---LeetCode Topics End-->
