@@ -1,17 +1,13 @@
 class Solution {
 public:
-    int numUniqueEmails(vector<string>& emails) {
-        unordered_set<string>str;
-        for(string &email : emails){
-            string checkmail;
-            for(char c : email){
-                if(c == '+' || c == '@') break;
-                if(c == '.') continue;
-                checkmail += c;
-            }
-            checkmail += email.substr(email.find('@'));
-            str.insert(checkmail);
+    int numUniqueEmails(vector<string>& emails)
+    {
+        for(auto& email:emails){
+            auto at_location = find(email.begin(),email.end(),'@');
+            auto end_after_removing_dots = remove(email.begin(),at_location,'.');
+			auto plus_location = find(email.begin(),end_after_removing_dots,'+');
+            email.erase(plus_location,at_location);
         }
-        return str.size();
+        return unordered_set(emails.begin(),emails.end()).size();
     }
 };
