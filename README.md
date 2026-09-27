@@ -23,6 +23,7 @@ This is just the beginning. 🌱
 | [0350-intersection-of-two-arrays-ii](https://github.com/Dhruv-byte-png/DSA_/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0523-continuous-subarray-sum](https://github.com/Dhruv-byte-png/DSA_/tree/master/0523-continuous-subarray-sum) |
 | [0896-monotonic-array](https://github.com/Dhruv-byte-png/DSA_/tree/master/0896-monotonic-array) |
+| [0912-sort-an-array](https://github.com/Dhruv-byte-png/DSA_/tree/master/0912-sort-an-array) |
 | [0929-unique-email-addresses](https://github.com/Dhruv-byte-png/DSA_/tree/master/0929-unique-email-addresses) |
 | [1089-duplicate-zeros](https://github.com/Dhruv-byte-png/DSA_/tree/master/1089-duplicate-zeros) |
 | [1122-relative-sort-array](https://github.com/Dhruv-byte-png/DSA_/tree/master/1122-relative-sort-array) |
@@ -57,6 +58,7 @@ This is just the beginning. 🌱
 |  |
 | ------- |
 | [0347-top-k-frequent-elements](https://github.com/Dhruv-byte-png/DSA_/tree/master/0347-top-k-frequent-elements) |
+| [0912-sort-an-array](https://github.com/Dhruv-byte-png/DSA_/tree/master/0912-sort-an-array) |
 ## Sorting
 |  |
 | ------- |
@@ -64,16 +66,19 @@ This is just the beginning. 🌱
 | [0229-majority-element-ii](https://github.com/Dhruv-byte-png/DSA_/tree/master/0229-majority-element-ii) |
 | [0347-top-k-frequent-elements](https://github.com/Dhruv-byte-png/DSA_/tree/master/0347-top-k-frequent-elements) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/Dhruv-byte-png/DSA_/tree/master/0350-intersection-of-two-arrays-ii) |
+| [0912-sort-an-array](https://github.com/Dhruv-byte-png/DSA_/tree/master/0912-sort-an-array) |
 | [1122-relative-sort-array](https://github.com/Dhruv-byte-png/DSA_/tree/master/1122-relative-sort-array) |
 | [1913-maximum-product-difference-between-two-pairs](https://github.com/Dhruv-byte-png/DSA_/tree/master/1913-maximum-product-difference-between-two-pairs) |
 ## Heap (Priority Queue)
 |  |
 | ------- |
 | [0347-top-k-frequent-elements](https://github.com/Dhruv-byte-png/DSA_/tree/master/0347-top-k-frequent-elements) |
+| [0912-sort-an-array](https://github.com/Dhruv-byte-png/DSA_/tree/master/0912-sort-an-array) |
 ## Bucket Sort
 |  |
 | ------- |
 | [0347-top-k-frequent-elements](https://github.com/Dhruv-byte-png/DSA_/tree/master/0347-top-k-frequent-elements) |
+| [0912-sort-an-array](https://github.com/Dhruv-byte-png/DSA_/tree/master/0912-sort-an-array) |
 ## Counting
 |  |
 | ------- |
@@ -164,6 +169,7 @@ This is just the beginning. 🌱
 ## Counting Sort
 |  |
 | ------- |
+| [0912-sort-an-array](https://github.com/Dhruv-byte-png/DSA_/tree/master/0912-sort-an-array) |
 | [1122-relative-sort-array](https://github.com/Dhruv-byte-png/DSA_/tree/master/1122-relative-sort-array) |
 ## Bubble Sort
 |  |
@@ -192,4 +198,12 @@ This is just the beginning. 🌱
 |  |
 | ------- |
 | [0287-find-the-duplicate-number](https://github.com/Dhruv-byte-png/DSA_/tree/master/0287-find-the-duplicate-number) |
+## Merge Sort
+|  |
+| ------- |
+| [0912-sort-an-array](https://github.com/Dhruv-byte-png/DSA_/tree/master/0912-sort-an-array) |
+## Radix Sort
+|  |
+| ------- |
+| [0912-sort-an-array](https://github.com/Dhruv-byte-png/DSA_/tree/master/0912-sort-an-array) |
 <!---LeetCode Topics End-->
