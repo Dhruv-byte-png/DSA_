@@ -28,6 +28,7 @@ This is just the beginning. 🌱
 | [1089-duplicate-zeros](https://github.com/Dhruv-byte-png/DSA_/tree/master/1089-duplicate-zeros) |
 | [1122-relative-sort-array](https://github.com/Dhruv-byte-png/DSA_/tree/master/1122-relative-sort-array) |
 | [1913-maximum-product-difference-between-two-pairs](https://github.com/Dhruv-byte-png/DSA_/tree/master/1913-maximum-product-difference-between-two-pairs) |
+| [1991-find-the-middle-index-in-array](https://github.com/Dhruv-byte-png/DSA_/tree/master/1991-find-the-middle-index-in-array) |
 | [3483-unique-3-digit-even-numbers](https://github.com/Dhruv-byte-png/DSA_/tree/master/3483-unique-3-digit-even-numbers) |
 | [3876-construct-uniform-parity-array-ii](https://github.com/Dhruv-byte-png/DSA_/tree/master/3876-construct-uniform-parity-array-ii) |
 | [3903-smallest-stable-index-i](https://github.com/Dhruv-byte-png/DSA_/tree/master/3903-smallest-stable-index-i) |
@@ -92,6 +93,7 @@ This is just the beginning. 🌱
 |  |
 | ------- |
 | [0523-continuous-subarray-sum](https://github.com/Dhruv-byte-png/DSA_/tree/master/0523-continuous-subarray-sum) |
+| [1991-find-the-middle-index-in-array](https://github.com/Dhruv-byte-png/DSA_/tree/master/1991-find-the-middle-index-in-array) |
 | [3903-smallest-stable-index-i](https://github.com/Dhruv-byte-png/DSA_/tree/master/3903-smallest-stable-index-i) |
 | [3904-smallest-stable-index-ii](https://github.com/Dhruv-byte-png/DSA_/tree/master/3904-smallest-stable-index-ii) |
 ## Pigeonhole Principle
