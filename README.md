@@ -168,6 +168,7 @@ This is just the beginning. 🌱
 ## String
 |  |
 | ------- |
+| [0020-valid-parentheses](https://github.com/Dhruv-byte-png/DSA_/tree/master/0020-valid-parentheses) |
 | [0049-group-anagrams](https://github.com/Dhruv-byte-png/DSA_/tree/master/0049-group-anagrams) |
 | [0929-unique-email-addresses](https://github.com/Dhruv-byte-png/DSA_/tree/master/0929-unique-email-addresses) |
 | [3498-reverse-degree-of-a-string](https://github.com/Dhruv-byte-png/DSA_/tree/master/3498-reverse-degree-of-a-string) |
@@ -220,4 +221,12 @@ This is just the beginning. 🌱
 |  |
 | ------- |
 | [1262-greatest-sum-divisible-by-three](https://github.com/Dhruv-byte-png/DSA_/tree/master/1262-greatest-sum-divisible-by-three) |
+## Stack
+|  |
+| ------- |
+| [0020-valid-parentheses](https://github.com/Dhruv-byte-png/DSA_/tree/master/0020-valid-parentheses) |
+## Bracket Sequences
+|  |
+| ------- |
+| [0020-valid-parentheses](https://github.com/Dhruv-byte-png/DSA_/tree/master/0020-valid-parentheses) |
 <!---LeetCode Topics End-->
