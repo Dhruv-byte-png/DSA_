@@ -39,6 +39,7 @@ This is just the beginning. 🌱
 |  |
 | ------- |
 | [0002-add-two-numbers](https://github.com/Dhruv-byte-png/DSA_/tree/master/0002-add-two-numbers) |
+| [0279-perfect-squares](https://github.com/Dhruv-byte-png/DSA_/tree/master/0279-perfect-squares) |
 | [0292-nim-game](https://github.com/Dhruv-byte-png/DSA_/tree/master/0292-nim-game) |
 | [0523-continuous-subarray-sum](https://github.com/Dhruv-byte-png/DSA_/tree/master/0523-continuous-subarray-sum) |
 | [0836-rectangle-overlap](https://github.com/Dhruv-byte-png/DSA_/tree/master/0836-rectangle-overlap) |
@@ -216,6 +217,7 @@ This is just the beginning. 🌱
 ## Dynamic Programming
 |  |
 | ------- |
+| [0279-perfect-squares](https://github.com/Dhruv-byte-png/DSA_/tree/master/0279-perfect-squares) |
 | [1262-greatest-sum-divisible-by-three](https://github.com/Dhruv-byte-png/DSA_/tree/master/1262-greatest-sum-divisible-by-three) |
 ## Greedy
 |  |
@@ -229,4 +231,16 @@ This is just the beginning. 🌱
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/Dhruv-byte-png/DSA_/tree/master/0020-valid-parentheses) |
+## Breadth-First Search
+|  |
+| ------- |
+| [0279-perfect-squares](https://github.com/Dhruv-byte-png/DSA_/tree/master/0279-perfect-squares) |
+## Knapsack Problem
+|  |
+| ------- |
+| [0279-perfect-squares](https://github.com/Dhruv-byte-png/DSA_/tree/master/0279-perfect-squares) |
+## Complete Knapsack
+|  |
+| ------- |
+| [0279-perfect-squares](https://github.com/Dhruv-byte-png/DSA_/tree/master/0279-perfect-squares) |
 <!---LeetCode Topics End-->
