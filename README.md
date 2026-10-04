@@ -43,6 +43,7 @@ This is just the beginning. 🌱
 | [0292-nim-game](https://github.com/Dhruv-byte-png/DSA_/tree/master/0292-nim-game) |
 | [0523-continuous-subarray-sum](https://github.com/Dhruv-byte-png/DSA_/tree/master/0523-continuous-subarray-sum) |
 | [0836-rectangle-overlap](https://github.com/Dhruv-byte-png/DSA_/tree/master/0836-rectangle-overlap) |
+| [2396-strictly-palindromic-number](https://github.com/Dhruv-byte-png/DSA_/tree/master/2396-strictly-palindromic-number) |
 | [3870-count-commas-in-range](https://github.com/Dhruv-byte-png/DSA_/tree/master/3870-count-commas-in-range) |
 | [3876-construct-uniform-parity-array-ii](https://github.com/Dhruv-byte-png/DSA_/tree/master/3876-construct-uniform-parity-array-ii) |
 ## Hash Table
@@ -125,10 +126,12 @@ This is just the beginning. 🌱
 | [0287-find-the-duplicate-number](https://github.com/Dhruv-byte-png/DSA_/tree/master/0287-find-the-duplicate-number) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/Dhruv-byte-png/DSA_/tree/master/0350-intersection-of-two-arrays-ii) |
 | [1089-duplicate-zeros](https://github.com/Dhruv-byte-png/DSA_/tree/master/1089-duplicate-zeros) |
+| [2396-strictly-palindromic-number](https://github.com/Dhruv-byte-png/DSA_/tree/master/2396-strictly-palindromic-number) |
 ## Brainteaser
 |  |
 | ------- |
 | [0292-nim-game](https://github.com/Dhruv-byte-png/DSA_/tree/master/0292-nim-game) |
+| [2396-strictly-palindromic-number](https://github.com/Dhruv-byte-png/DSA_/tree/master/2396-strictly-palindromic-number) |
 ## Minimax
 |  |
 | ------- |
