@@ -116,6 +116,7 @@ This is just the beginning. 🌱
 | [0141-linked-list-cycle](https://github.com/Dhruv-byte-png/DSA_/tree/master/0141-linked-list-cycle) |
 | [0142-linked-list-cycle-ii](https://github.com/Dhruv-byte-png/DSA_/tree/master/0142-linked-list-cycle-ii) |
 | [0203-remove-linked-list-elements](https://github.com/Dhruv-byte-png/DSA_/tree/master/0203-remove-linked-list-elements) |
+| [0206-reverse-linked-list](https://github.com/Dhruv-byte-png/DSA_/tree/master/0206-reverse-linked-list) |
 | [0237-delete-node-in-a-linked-list](https://github.com/Dhruv-byte-png/DSA_/tree/master/0237-delete-node-in-a-linked-list) |
 ## Two Pointers
 |  |
@@ -154,6 +155,7 @@ This is just the beginning. 🌱
 | ------- |
 | [0002-add-two-numbers](https://github.com/Dhruv-byte-png/DSA_/tree/master/0002-add-two-numbers) |
 | [0203-remove-linked-list-elements](https://github.com/Dhruv-byte-png/DSA_/tree/master/0203-remove-linked-list-elements) |
+| [0206-reverse-linked-list](https://github.com/Dhruv-byte-png/DSA_/tree/master/0206-reverse-linked-list) |
 | [3483-unique-3-digit-even-numbers](https://github.com/Dhruv-byte-png/DSA_/tree/master/3483-unique-3-digit-even-numbers) |
 ## Floyd's Cycle Finding Algorithm
 |  |
