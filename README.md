@@ -24,6 +24,7 @@ This is just the beginning. 🌱
 | [0350-intersection-of-two-arrays-ii](https://github.com/Dhruv-byte-png/DSA_/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0523-continuous-subarray-sum](https://github.com/Dhruv-byte-png/DSA_/tree/master/0523-continuous-subarray-sum) |
 | [0896-monotonic-array](https://github.com/Dhruv-byte-png/DSA_/tree/master/0896-monotonic-array) |
+| [0905-sort-array-by-parity](https://github.com/Dhruv-byte-png/DSA_/tree/master/0905-sort-array-by-parity) |
 | [0912-sort-an-array](https://github.com/Dhruv-byte-png/DSA_/tree/master/0912-sort-an-array) |
 | [0929-unique-email-addresses](https://github.com/Dhruv-byte-png/DSA_/tree/master/0929-unique-email-addresses) |
 | [1089-duplicate-zeros](https://github.com/Dhruv-byte-png/DSA_/tree/master/1089-duplicate-zeros) |
@@ -76,6 +77,7 @@ This is just the beginning. 🌱
 | [0229-majority-element-ii](https://github.com/Dhruv-byte-png/DSA_/tree/master/0229-majority-element-ii) |
 | [0347-top-k-frequent-elements](https://github.com/Dhruv-byte-png/DSA_/tree/master/0347-top-k-frequent-elements) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/Dhruv-byte-png/DSA_/tree/master/0350-intersection-of-two-arrays-ii) |
+| [0905-sort-array-by-parity](https://github.com/Dhruv-byte-png/DSA_/tree/master/0905-sort-array-by-parity) |
 | [0912-sort-an-array](https://github.com/Dhruv-byte-png/DSA_/tree/master/0912-sort-an-array) |
 | [1122-relative-sort-array](https://github.com/Dhruv-byte-png/DSA_/tree/master/1122-relative-sort-array) |
 | [1262-greatest-sum-divisible-by-three](https://github.com/Dhruv-byte-png/DSA_/tree/master/1262-greatest-sum-divisible-by-three) |
@@ -132,6 +134,7 @@ This is just the beginning. 🌱
 | [0142-linked-list-cycle-ii](https://github.com/Dhruv-byte-png/DSA_/tree/master/0142-linked-list-cycle-ii) |
 | [0287-find-the-duplicate-number](https://github.com/Dhruv-byte-png/DSA_/tree/master/0287-find-the-duplicate-number) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/Dhruv-byte-png/DSA_/tree/master/0350-intersection-of-two-arrays-ii) |
+| [0905-sort-array-by-parity](https://github.com/Dhruv-byte-png/DSA_/tree/master/0905-sort-array-by-parity) |
 | [1089-duplicate-zeros](https://github.com/Dhruv-byte-png/DSA_/tree/master/1089-duplicate-zeros) |
 | [2396-strictly-palindromic-number](https://github.com/Dhruv-byte-png/DSA_/tree/master/2396-strictly-palindromic-number) |
 ## Brainteaser
