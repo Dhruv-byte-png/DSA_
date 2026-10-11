@@ -33,6 +33,7 @@ This is just the beginning. 🌱
 | [1913-maximum-product-difference-between-two-pairs](https://github.com/Dhruv-byte-png/DSA_/tree/master/1913-maximum-product-difference-between-two-pairs) |
 | [1991-find-the-middle-index-in-array](https://github.com/Dhruv-byte-png/DSA_/tree/master/1991-find-the-middle-index-in-array) |
 | [2404-most-frequent-even-element](https://github.com/Dhruv-byte-png/DSA_/tree/master/2404-most-frequent-even-element) |
+| [2778-sum-of-squares-of-special-elements](https://github.com/Dhruv-byte-png/DSA_/tree/master/2778-sum-of-squares-of-special-elements) |
 | [3483-unique-3-digit-even-numbers](https://github.com/Dhruv-byte-png/DSA_/tree/master/3483-unique-3-digit-even-numbers) |
 | [3876-construct-uniform-parity-array-ii](https://github.com/Dhruv-byte-png/DSA_/tree/master/3876-construct-uniform-parity-array-ii) |
 | [3903-smallest-stable-index-i](https://github.com/Dhruv-byte-png/DSA_/tree/master/3903-smallest-stable-index-i) |
@@ -170,6 +171,7 @@ This is just the beginning. 🌱
 ## Enumeration
 |  |
 | ------- |
+| [2778-sum-of-squares-of-special-elements](https://github.com/Dhruv-byte-png/DSA_/tree/master/2778-sum-of-squares-of-special-elements) |
 | [3483-unique-3-digit-even-numbers](https://github.com/Dhruv-byte-png/DSA_/tree/master/3483-unique-3-digit-even-numbers) |
 ## Quicksort
 |  |
