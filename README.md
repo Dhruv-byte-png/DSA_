@@ -33,6 +33,7 @@ This is just the beginning. 🌱
 | [1122-relative-sort-array](https://github.com/Dhruv-byte-png/DSA_/tree/master/1122-relative-sort-array) |
 | [1262-greatest-sum-divisible-by-three](https://github.com/Dhruv-byte-png/DSA_/tree/master/1262-greatest-sum-divisible-by-three) |
 | [1636-sort-array-by-increasing-frequency](https://github.com/Dhruv-byte-png/DSA_/tree/master/1636-sort-array-by-increasing-frequency) |
+| [1752-check-if-array-is-sorted-and-rotated](https://github.com/Dhruv-byte-png/DSA_/tree/master/1752-check-if-array-is-sorted-and-rotated) |
 | [1848-minimum-distance-to-the-target-element](https://github.com/Dhruv-byte-png/DSA_/tree/master/1848-minimum-distance-to-the-target-element) |
 | [1913-maximum-product-difference-between-two-pairs](https://github.com/Dhruv-byte-png/DSA_/tree/master/1913-maximum-product-difference-between-two-pairs) |
 | [1991-find-the-middle-index-in-array](https://github.com/Dhruv-byte-png/DSA_/tree/master/1991-find-the-middle-index-in-array) |
