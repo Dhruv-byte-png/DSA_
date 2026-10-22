@@ -24,6 +24,7 @@ This is just the beginning. 🌱
 | [0350-intersection-of-two-arrays-ii](https://github.com/Dhruv-byte-png/DSA_/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/Dhruv-byte-png/DSA_/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
 | [0523-continuous-subarray-sum](https://github.com/Dhruv-byte-png/DSA_/tree/master/0523-continuous-subarray-sum) |
+| [0643-maximum-average-subarray-i](https://github.com/Dhruv-byte-png/DSA_/tree/master/0643-maximum-average-subarray-i) |
 | [0704-binary-search](https://github.com/Dhruv-byte-png/DSA_/tree/master/0704-binary-search) |
 | [0724-find-pivot-index](https://github.com/Dhruv-byte-png/DSA_/tree/master/0724-find-pivot-index) |
 | [0896-monotonic-array](https://github.com/Dhruv-byte-png/DSA_/tree/master/0896-monotonic-array) |
@@ -307,4 +308,8 @@ This is just the beginning. 🌱
 | [0104-maximum-depth-of-binary-tree](https://github.com/Dhruv-byte-png/DSA_/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0111-minimum-depth-of-binary-tree](https://github.com/Dhruv-byte-png/DSA_/tree/master/0111-minimum-depth-of-binary-tree) |
 | [0144-binary-tree-preorder-traversal](https://github.com/Dhruv-byte-png/DSA_/tree/master/0144-binary-tree-preorder-traversal) |
+## Sliding Window
+|  |
+| ------- |
+| [0643-maximum-average-subarray-i](https://github.com/Dhruv-byte-png/DSA_/tree/master/0643-maximum-average-subarray-i) |
 <!---LeetCode Topics End-->
