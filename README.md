@@ -17,6 +17,7 @@ This is just the beginning. 🌱
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/Dhruv-byte-png/DSA_/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
 | [0049-group-anagrams](https://github.com/Dhruv-byte-png/DSA_/tree/master/0049-group-anagrams) |
 | [0053-maximum-subarray](https://github.com/Dhruv-byte-png/DSA_/tree/master/0053-maximum-subarray) |
+| [0078-subsets](https://github.com/Dhruv-byte-png/DSA_/tree/master/0078-subsets) |
 | [0081-search-in-rotated-sorted-array-ii](https://github.com/Dhruv-byte-png/DSA_/tree/master/0081-search-in-rotated-sorted-array-ii) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/Dhruv-byte-png/DSA_/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0229-majority-element-ii](https://github.com/Dhruv-byte-png/DSA_/tree/master/0229-majority-element-ii) |
@@ -242,6 +243,7 @@ This is just the beginning. 🌱
 ## Bit Manipulation
 |  |
 | ------- |
+| [0078-subsets](https://github.com/Dhruv-byte-png/DSA_/tree/master/0078-subsets) |
 | [0287-find-the-duplicate-number](https://github.com/Dhruv-byte-png/DSA_/tree/master/0287-find-the-duplicate-number) |
 ## Merge Sort
 |  |
@@ -319,4 +321,8 @@ This is just the beginning. 🌱
 |  |
 | ------- |
 | [0643-maximum-average-subarray-i](https://github.com/Dhruv-byte-png/DSA_/tree/master/0643-maximum-average-subarray-i) |
+## Backtracking
+|  |
+| ------- |
+| [0078-subsets](https://github.com/Dhruv-byte-png/DSA_/tree/master/0078-subsets) |
 <!---LeetCode Topics End-->
