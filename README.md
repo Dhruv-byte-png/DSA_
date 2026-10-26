@@ -25,6 +25,7 @@ This is just the beginning. 🌱
 | [0347-top-k-frequent-elements](https://github.com/Dhruv-byte-png/DSA_/tree/master/0347-top-k-frequent-elements) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/Dhruv-byte-png/DSA_/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/Dhruv-byte-png/DSA_/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
+| [0494-target-sum](https://github.com/Dhruv-byte-png/DSA_/tree/master/0494-target-sum) |
 | [0523-continuous-subarray-sum](https://github.com/Dhruv-byte-png/DSA_/tree/master/0523-continuous-subarray-sum) |
 | [0643-maximum-average-subarray-i](https://github.com/Dhruv-byte-png/DSA_/tree/master/0643-maximum-average-subarray-i) |
 | [0704-binary-search](https://github.com/Dhruv-byte-png/DSA_/tree/master/0704-binary-search) |
@@ -258,6 +259,7 @@ This is just the beginning. 🌱
 | ------- |
 | [0053-maximum-subarray](https://github.com/Dhruv-byte-png/DSA_/tree/master/0053-maximum-subarray) |
 | [0279-perfect-squares](https://github.com/Dhruv-byte-png/DSA_/tree/master/0279-perfect-squares) |
+| [0494-target-sum](https://github.com/Dhruv-byte-png/DSA_/tree/master/0494-target-sum) |
 | [1262-greatest-sum-divisible-by-three](https://github.com/Dhruv-byte-png/DSA_/tree/master/1262-greatest-sum-divisible-by-three) |
 ## Greedy
 |  |
@@ -288,6 +290,7 @@ This is just the beginning. 🌱
 |  |
 | ------- |
 | [0279-perfect-squares](https://github.com/Dhruv-byte-png/DSA_/tree/master/0279-perfect-squares) |
+| [0494-target-sum](https://github.com/Dhruv-byte-png/DSA_/tree/master/0494-target-sum) |
 ## Complete Knapsack
 |  |
 | ------- |
@@ -325,4 +328,9 @@ This is just the beginning. 🌱
 |  |
 | ------- |
 | [0078-subsets](https://github.com/Dhruv-byte-png/DSA_/tree/master/0078-subsets) |
+| [0494-target-sum](https://github.com/Dhruv-byte-png/DSA_/tree/master/0494-target-sum) |
+## 0-1 Knapsack
+|  |
+| ------- |
+| [0494-target-sum](https://github.com/Dhruv-byte-png/DSA_/tree/master/0494-target-sum) |
 <!---LeetCode Topics End-->
