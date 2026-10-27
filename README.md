@@ -59,6 +59,7 @@ This is just the beginning. 🌱
 | [1290-convert-binary-number-in-a-linked-list-to-integer](https://github.com/Dhruv-byte-png/DSA_/tree/master/1290-convert-binary-number-in-a-linked-list-to-integer) |
 | [1688-count-of-matches-in-tournament](https://github.com/Dhruv-byte-png/DSA_/tree/master/1688-count-of-matches-in-tournament) |
 | [2396-strictly-palindromic-number](https://github.com/Dhruv-byte-png/DSA_/tree/master/2396-strictly-palindromic-number) |
+| [2443-sum-of-number-and-its-reverse](https://github.com/Dhruv-byte-png/DSA_/tree/master/2443-sum-of-number-and-its-reverse) |
 | [3870-count-commas-in-range](https://github.com/Dhruv-byte-png/DSA_/tree/master/3870-count-commas-in-range) |
 | [3876-construct-uniform-parity-array-ii](https://github.com/Dhruv-byte-png/DSA_/tree/master/3876-construct-uniform-parity-array-ii) |
 ## Hash Table
@@ -193,6 +194,7 @@ This is just the beginning. 🌱
 ## Enumeration
 |  |
 | ------- |
+| [2443-sum-of-number-and-its-reverse](https://github.com/Dhruv-byte-png/DSA_/tree/master/2443-sum-of-number-and-its-reverse) |
 | [2778-sum-of-squares-of-special-elements](https://github.com/Dhruv-byte-png/DSA_/tree/master/2778-sum-of-squares-of-special-elements) |
 | [3483-unique-3-digit-even-numbers](https://github.com/Dhruv-byte-png/DSA_/tree/master/3483-unique-3-digit-even-numbers) |
 ## Quicksort
