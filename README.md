@@ -283,6 +283,7 @@ This is just the beginning. 🌱
 ## Breadth-First Search
 |  |
 | ------- |
+| [0100-same-tree](https://github.com/Dhruv-byte-png/DSA_/tree/master/0100-same-tree) |
 | [0104-maximum-depth-of-binary-tree](https://github.com/Dhruv-byte-png/DSA_/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0111-minimum-depth-of-binary-tree](https://github.com/Dhruv-byte-png/DSA_/tree/master/0111-minimum-depth-of-binary-tree) |
 | [0279-perfect-squares](https://github.com/Dhruv-byte-png/DSA_/tree/master/0279-perfect-squares) |
@@ -303,6 +304,7 @@ This is just the beginning. 🌱
 |  |
 | ------- |
 | [0094-binary-tree-inorder-traversal](https://github.com/Dhruv-byte-png/DSA_/tree/master/0094-binary-tree-inorder-traversal) |
+| [0100-same-tree](https://github.com/Dhruv-byte-png/DSA_/tree/master/0100-same-tree) |
 | [0104-maximum-depth-of-binary-tree](https://github.com/Dhruv-byte-png/DSA_/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0111-minimum-depth-of-binary-tree](https://github.com/Dhruv-byte-png/DSA_/tree/master/0111-minimum-depth-of-binary-tree) |
 | [0144-binary-tree-preorder-traversal](https://github.com/Dhruv-byte-png/DSA_/tree/master/0144-binary-tree-preorder-traversal) |
@@ -310,6 +312,7 @@ This is just the beginning. 🌱
 |  |
 | ------- |
 | [0094-binary-tree-inorder-traversal](https://github.com/Dhruv-byte-png/DSA_/tree/master/0094-binary-tree-inorder-traversal) |
+| [0100-same-tree](https://github.com/Dhruv-byte-png/DSA_/tree/master/0100-same-tree) |
 | [0104-maximum-depth-of-binary-tree](https://github.com/Dhruv-byte-png/DSA_/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0111-minimum-depth-of-binary-tree](https://github.com/Dhruv-byte-png/DSA_/tree/master/0111-minimum-depth-of-binary-tree) |
 | [0144-binary-tree-preorder-traversal](https://github.com/Dhruv-byte-png/DSA_/tree/master/0144-binary-tree-preorder-traversal) |
@@ -317,6 +320,7 @@ This is just the beginning. 🌱
 |  |
 | ------- |
 | [0094-binary-tree-inorder-traversal](https://github.com/Dhruv-byte-png/DSA_/tree/master/0094-binary-tree-inorder-traversal) |
+| [0100-same-tree](https://github.com/Dhruv-byte-png/DSA_/tree/master/0100-same-tree) |
 | [0104-maximum-depth-of-binary-tree](https://github.com/Dhruv-byte-png/DSA_/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0111-minimum-depth-of-binary-tree](https://github.com/Dhruv-byte-png/DSA_/tree/master/0111-minimum-depth-of-binary-tree) |
 | [0144-binary-tree-preorder-traversal](https://github.com/Dhruv-byte-png/DSA_/tree/master/0144-binary-tree-preorder-traversal) |
