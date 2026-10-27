@@ -308,6 +308,7 @@ This is just the beginning. 🌱
 | [0104-maximum-depth-of-binary-tree](https://github.com/Dhruv-byte-png/DSA_/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0111-minimum-depth-of-binary-tree](https://github.com/Dhruv-byte-png/DSA_/tree/master/0111-minimum-depth-of-binary-tree) |
 | [0144-binary-tree-preorder-traversal](https://github.com/Dhruv-byte-png/DSA_/tree/master/0144-binary-tree-preorder-traversal) |
+| [0700-search-in-a-binary-search-tree](https://github.com/Dhruv-byte-png/DSA_/tree/master/0700-search-in-a-binary-search-tree) |
 ## Depth-First Search
 |  |
 | ------- |
@@ -324,6 +325,7 @@ This is just the beginning. 🌱
 | [0104-maximum-depth-of-binary-tree](https://github.com/Dhruv-byte-png/DSA_/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0111-minimum-depth-of-binary-tree](https://github.com/Dhruv-byte-png/DSA_/tree/master/0111-minimum-depth-of-binary-tree) |
 | [0144-binary-tree-preorder-traversal](https://github.com/Dhruv-byte-png/DSA_/tree/master/0144-binary-tree-preorder-traversal) |
+| [0700-search-in-a-binary-search-tree](https://github.com/Dhruv-byte-png/DSA_/tree/master/0700-search-in-a-binary-search-tree) |
 ## Sliding Window
 |  |
 | ------- |
@@ -337,4 +339,8 @@ This is just the beginning. 🌱
 |  |
 | ------- |
 | [0494-target-sum](https://github.com/Dhruv-byte-png/DSA_/tree/master/0494-target-sum) |
+## Binary Search Tree
+|  |
+| ------- |
+| [0700-search-in-a-binary-search-tree](https://github.com/Dhruv-byte-png/DSA_/tree/master/0700-search-in-a-binary-search-tree) |
 <!---LeetCode Topics End-->
