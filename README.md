@@ -292,6 +292,7 @@ This is just the beginning. 🌱
 | [0102-binary-tree-level-order-traversal](https://github.com/Dhruv-byte-png/DSA_/tree/master/0102-binary-tree-level-order-traversal) |
 | [0104-maximum-depth-of-binary-tree](https://github.com/Dhruv-byte-png/DSA_/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0111-minimum-depth-of-binary-tree](https://github.com/Dhruv-byte-png/DSA_/tree/master/0111-minimum-depth-of-binary-tree) |
+| [0112-path-sum](https://github.com/Dhruv-byte-png/DSA_/tree/master/0112-path-sum) |
 | [0279-perfect-squares](https://github.com/Dhruv-byte-png/DSA_/tree/master/0279-perfect-squares) |
 ## Knapsack Problem
 |  |
@@ -314,6 +315,7 @@ This is just the beginning. 🌱
 | [0102-binary-tree-level-order-traversal](https://github.com/Dhruv-byte-png/DSA_/tree/master/0102-binary-tree-level-order-traversal) |
 | [0104-maximum-depth-of-binary-tree](https://github.com/Dhruv-byte-png/DSA_/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0111-minimum-depth-of-binary-tree](https://github.com/Dhruv-byte-png/DSA_/tree/master/0111-minimum-depth-of-binary-tree) |
+| [0112-path-sum](https://github.com/Dhruv-byte-png/DSA_/tree/master/0112-path-sum) |
 | [0144-binary-tree-preorder-traversal](https://github.com/Dhruv-byte-png/DSA_/tree/master/0144-binary-tree-preorder-traversal) |
 | [0700-search-in-a-binary-search-tree](https://github.com/Dhruv-byte-png/DSA_/tree/master/0700-search-in-a-binary-search-tree) |
 ## Depth-First Search
@@ -323,6 +325,7 @@ This is just the beginning. 🌱
 | [0100-same-tree](https://github.com/Dhruv-byte-png/DSA_/tree/master/0100-same-tree) |
 | [0104-maximum-depth-of-binary-tree](https://github.com/Dhruv-byte-png/DSA_/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0111-minimum-depth-of-binary-tree](https://github.com/Dhruv-byte-png/DSA_/tree/master/0111-minimum-depth-of-binary-tree) |
+| [0112-path-sum](https://github.com/Dhruv-byte-png/DSA_/tree/master/0112-path-sum) |
 | [0144-binary-tree-preorder-traversal](https://github.com/Dhruv-byte-png/DSA_/tree/master/0144-binary-tree-preorder-traversal) |
 ## Binary Tree
 |  |
@@ -332,6 +335,7 @@ This is just the beginning. 🌱
 | [0102-binary-tree-level-order-traversal](https://github.com/Dhruv-byte-png/DSA_/tree/master/0102-binary-tree-level-order-traversal) |
 | [0104-maximum-depth-of-binary-tree](https://github.com/Dhruv-byte-png/DSA_/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0111-minimum-depth-of-binary-tree](https://github.com/Dhruv-byte-png/DSA_/tree/master/0111-minimum-depth-of-binary-tree) |
+| [0112-path-sum](https://github.com/Dhruv-byte-png/DSA_/tree/master/0112-path-sum) |
 | [0144-binary-tree-preorder-traversal](https://github.com/Dhruv-byte-png/DSA_/tree/master/0144-binary-tree-preorder-traversal) |
 | [0700-search-in-a-binary-search-tree](https://github.com/Dhruv-byte-png/DSA_/tree/master/0700-search-in-a-binary-search-tree) |
 ## Sliding Window
