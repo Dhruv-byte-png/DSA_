@@ -52,6 +52,7 @@ This is just the beginning. 🌱
 |  |
 | ------- |
 | [0002-add-two-numbers](https://github.com/Dhruv-byte-png/DSA_/tree/master/0002-add-two-numbers) |
+| [0089-gray-code](https://github.com/Dhruv-byte-png/DSA_/tree/master/0089-gray-code) |
 | [0279-perfect-squares](https://github.com/Dhruv-byte-png/DSA_/tree/master/0279-perfect-squares) |
 | [0292-nim-game](https://github.com/Dhruv-byte-png/DSA_/tree/master/0292-nim-game) |
 | [0523-continuous-subarray-sum](https://github.com/Dhruv-byte-png/DSA_/tree/master/0523-continuous-subarray-sum) |
@@ -250,6 +251,7 @@ This is just the beginning. 🌱
 |  |
 | ------- |
 | [0078-subsets](https://github.com/Dhruv-byte-png/DSA_/tree/master/0078-subsets) |
+| [0089-gray-code](https://github.com/Dhruv-byte-png/DSA_/tree/master/0089-gray-code) |
 | [0287-find-the-duplicate-number](https://github.com/Dhruv-byte-png/DSA_/tree/master/0287-find-the-duplicate-number) |
 ## Merge Sort
 |  |
@@ -347,6 +349,7 @@ This is just the beginning. 🌱
 |  |
 | ------- |
 | [0078-subsets](https://github.com/Dhruv-byte-png/DSA_/tree/master/0078-subsets) |
+| [0089-gray-code](https://github.com/Dhruv-byte-png/DSA_/tree/master/0089-gray-code) |
 | [0494-target-sum](https://github.com/Dhruv-byte-png/DSA_/tree/master/0494-target-sum) |
 ## 0-1 Knapsack
 |  |
