@@ -280,6 +280,7 @@ This is just the beginning. 🌱
 | [0020-valid-parentheses](https://github.com/Dhruv-byte-png/DSA_/tree/master/0020-valid-parentheses) |
 | [0094-binary-tree-inorder-traversal](https://github.com/Dhruv-byte-png/DSA_/tree/master/0094-binary-tree-inorder-traversal) |
 | [0144-binary-tree-preorder-traversal](https://github.com/Dhruv-byte-png/DSA_/tree/master/0144-binary-tree-preorder-traversal) |
+| [0145-binary-tree-postorder-traversal](https://github.com/Dhruv-byte-png/DSA_/tree/master/0145-binary-tree-postorder-traversal) |
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/Dhruv-byte-png/DSA_/tree/master/0921-minimum-add-to-make-parentheses-valid) |
 | [1021-remove-outermost-parentheses](https://github.com/Dhruv-byte-png/DSA_/tree/master/1021-remove-outermost-parentheses) |
 ## Bracket Sequences
@@ -320,6 +321,7 @@ This is just the beginning. 🌱
 | [0111-minimum-depth-of-binary-tree](https://github.com/Dhruv-byte-png/DSA_/tree/master/0111-minimum-depth-of-binary-tree) |
 | [0112-path-sum](https://github.com/Dhruv-byte-png/DSA_/tree/master/0112-path-sum) |
 | [0144-binary-tree-preorder-traversal](https://github.com/Dhruv-byte-png/DSA_/tree/master/0144-binary-tree-preorder-traversal) |
+| [0145-binary-tree-postorder-traversal](https://github.com/Dhruv-byte-png/DSA_/tree/master/0145-binary-tree-postorder-traversal) |
 | [0700-search-in-a-binary-search-tree](https://github.com/Dhruv-byte-png/DSA_/tree/master/0700-search-in-a-binary-search-tree) |
 ## Depth-First Search
 |  |
@@ -330,6 +332,7 @@ This is just the beginning. 🌱
 | [0111-minimum-depth-of-binary-tree](https://github.com/Dhruv-byte-png/DSA_/tree/master/0111-minimum-depth-of-binary-tree) |
 | [0112-path-sum](https://github.com/Dhruv-byte-png/DSA_/tree/master/0112-path-sum) |
 | [0144-binary-tree-preorder-traversal](https://github.com/Dhruv-byte-png/DSA_/tree/master/0144-binary-tree-preorder-traversal) |
+| [0145-binary-tree-postorder-traversal](https://github.com/Dhruv-byte-png/DSA_/tree/master/0145-binary-tree-postorder-traversal) |
 ## Binary Tree
 |  |
 | ------- |
@@ -340,6 +343,7 @@ This is just the beginning. 🌱
 | [0111-minimum-depth-of-binary-tree](https://github.com/Dhruv-byte-png/DSA_/tree/master/0111-minimum-depth-of-binary-tree) |
 | [0112-path-sum](https://github.com/Dhruv-byte-png/DSA_/tree/master/0112-path-sum) |
 | [0144-binary-tree-preorder-traversal](https://github.com/Dhruv-byte-png/DSA_/tree/master/0144-binary-tree-preorder-traversal) |
+| [0145-binary-tree-postorder-traversal](https://github.com/Dhruv-byte-png/DSA_/tree/master/0145-binary-tree-postorder-traversal) |
 | [0700-search-in-a-binary-search-tree](https://github.com/Dhruv-byte-png/DSA_/tree/master/0700-search-in-a-binary-search-tree) |
 ## Sliding Window
 |  |
