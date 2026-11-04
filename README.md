@@ -38,6 +38,7 @@ This is just the beginning. 🌱
 | [1089-duplicate-zeros](https://github.com/Dhruv-byte-png/DSA_/tree/master/1089-duplicate-zeros) |
 | [1122-relative-sort-array](https://github.com/Dhruv-byte-png/DSA_/tree/master/1122-relative-sort-array) |
 | [1262-greatest-sum-divisible-by-three](https://github.com/Dhruv-byte-png/DSA_/tree/master/1262-greatest-sum-divisible-by-three) |
+| [1441-build-an-array-with-stack-operations](https://github.com/Dhruv-byte-png/DSA_/tree/master/1441-build-an-array-with-stack-operations) |
 | [1636-sort-array-by-increasing-frequency](https://github.com/Dhruv-byte-png/DSA_/tree/master/1636-sort-array-by-increasing-frequency) |
 | [1752-check-if-array-is-sorted-and-rotated](https://github.com/Dhruv-byte-png/DSA_/tree/master/1752-check-if-array-is-sorted-and-rotated) |
 | [1848-minimum-distance-to-the-target-element](https://github.com/Dhruv-byte-png/DSA_/tree/master/1848-minimum-distance-to-the-target-element) |
@@ -250,6 +251,7 @@ This is just the beginning. 🌱
 ## Simulation
 |  |
 | ------- |
+| [1441-build-an-array-with-stack-operations](https://github.com/Dhruv-byte-png/DSA_/tree/master/1441-build-an-array-with-stack-operations) |
 | [1688-count-of-matches-in-tournament](https://github.com/Dhruv-byte-png/DSA_/tree/master/1688-count-of-matches-in-tournament) |
 | [3498-reverse-degree-of-a-string](https://github.com/Dhruv-byte-png/DSA_/tree/master/3498-reverse-degree-of-a-string) |
 ## Bit Manipulation
@@ -288,6 +290,7 @@ This is just the beginning. 🌱
 | [0145-binary-tree-postorder-traversal](https://github.com/Dhruv-byte-png/DSA_/tree/master/0145-binary-tree-postorder-traversal) |
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/Dhruv-byte-png/DSA_/tree/master/0921-minimum-add-to-make-parentheses-valid) |
 | [1021-remove-outermost-parentheses](https://github.com/Dhruv-byte-png/DSA_/tree/master/1021-remove-outermost-parentheses) |
+| [1441-build-an-array-with-stack-operations](https://github.com/Dhruv-byte-png/DSA_/tree/master/1441-build-an-array-with-stack-operations) |
 ## Bracket Sequences
 |  |
 | ------- |
