@@ -38,6 +38,7 @@ This is just the beginning. 🌱
 | [1089-duplicate-zeros](https://github.com/Dhruv-byte-png/DSA_/tree/master/1089-duplicate-zeros) |
 | [1122-relative-sort-array](https://github.com/Dhruv-byte-png/DSA_/tree/master/1122-relative-sort-array) |
 | [1262-greatest-sum-divisible-by-three](https://github.com/Dhruv-byte-png/DSA_/tree/master/1262-greatest-sum-divisible-by-three) |
+| [1385-find-the-distance-value-between-two-arrays](https://github.com/Dhruv-byte-png/DSA_/tree/master/1385-find-the-distance-value-between-two-arrays) |
 | [1441-build-an-array-with-stack-operations](https://github.com/Dhruv-byte-png/DSA_/tree/master/1441-build-an-array-with-stack-operations) |
 | [1636-sort-array-by-increasing-frequency](https://github.com/Dhruv-byte-png/DSA_/tree/master/1636-sort-array-by-increasing-frequency) |
 | [1749-maximum-absolute-sum-of-any-subarray](https://github.com/Dhruv-byte-png/DSA_/tree/master/1749-maximum-absolute-sum-of-any-subarray) |
@@ -101,6 +102,7 @@ This is just the beginning. 🌱
 | [0912-sort-an-array](https://github.com/Dhruv-byte-png/DSA_/tree/master/0912-sort-an-array) |
 | [1122-relative-sort-array](https://github.com/Dhruv-byte-png/DSA_/tree/master/1122-relative-sort-array) |
 | [1262-greatest-sum-divisible-by-three](https://github.com/Dhruv-byte-png/DSA_/tree/master/1262-greatest-sum-divisible-by-three) |
+| [1385-find-the-distance-value-between-two-arrays](https://github.com/Dhruv-byte-png/DSA_/tree/master/1385-find-the-distance-value-between-two-arrays) |
 | [1636-sort-array-by-increasing-frequency](https://github.com/Dhruv-byte-png/DSA_/tree/master/1636-sort-array-by-increasing-frequency) |
 | [1913-maximum-product-difference-between-two-pairs](https://github.com/Dhruv-byte-png/DSA_/tree/master/1913-maximum-product-difference-between-two-pairs) |
 ## Heap (Priority Queue)
@@ -164,6 +166,7 @@ This is just the beginning. 🌱
 | [0876-middle-of-the-linked-list](https://github.com/Dhruv-byte-png/DSA_/tree/master/0876-middle-of-the-linked-list) |
 | [0905-sort-array-by-parity](https://github.com/Dhruv-byte-png/DSA_/tree/master/0905-sort-array-by-parity) |
 | [1089-duplicate-zeros](https://github.com/Dhruv-byte-png/DSA_/tree/master/1089-duplicate-zeros) |
+| [1385-find-the-distance-value-between-two-arrays](https://github.com/Dhruv-byte-png/DSA_/tree/master/1385-find-the-distance-value-between-two-arrays) |
 | [2396-strictly-palindromic-number](https://github.com/Dhruv-byte-png/DSA_/tree/master/2396-strictly-palindromic-number) |
 ## Brainteaser
 |  |
@@ -241,6 +244,7 @@ This is just the beginning. 🌱
 | [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/Dhruv-byte-png/DSA_/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
 | [0704-binary-search](https://github.com/Dhruv-byte-png/DSA_/tree/master/0704-binary-search) |
 | [0744-find-smallest-letter-greater-than-target](https://github.com/Dhruv-byte-png/DSA_/tree/master/0744-find-smallest-letter-greater-than-target) |
+| [1385-find-the-distance-value-between-two-arrays](https://github.com/Dhruv-byte-png/DSA_/tree/master/1385-find-the-distance-value-between-two-arrays) |
 ## Geometry
 |  |
 | ------- |
