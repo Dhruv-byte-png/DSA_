@@ -19,6 +19,7 @@ This is just the beginning. 🌱
 | [0053-maximum-subarray](https://github.com/Dhruv-byte-png/DSA_/tree/master/0053-maximum-subarray) |
 | [0078-subsets](https://github.com/Dhruv-byte-png/DSA_/tree/master/0078-subsets) |
 | [0081-search-in-rotated-sorted-array-ii](https://github.com/Dhruv-byte-png/DSA_/tree/master/0081-search-in-rotated-sorted-array-ii) |
+| [0108-convert-sorted-array-to-binary-search-tree](https://github.com/Dhruv-byte-png/DSA_/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/Dhruv-byte-png/DSA_/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0229-majority-element-ii](https://github.com/Dhruv-byte-png/DSA_/tree/master/0229-majority-element-ii) |
 | [0287-find-the-duplicate-number](https://github.com/Dhruv-byte-png/DSA_/tree/master/0287-find-the-duplicate-number) |
@@ -88,6 +89,7 @@ This is just the beginning. 🌱
 |  |
 | ------- |
 | [0053-maximum-subarray](https://github.com/Dhruv-byte-png/DSA_/tree/master/0053-maximum-subarray) |
+| [0108-convert-sorted-array-to-binary-search-tree](https://github.com/Dhruv-byte-png/DSA_/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 | [0347-top-k-frequent-elements](https://github.com/Dhruv-byte-png/DSA_/tree/master/0347-top-k-frequent-elements) |
 | [0912-sort-an-array](https://github.com/Dhruv-byte-png/DSA_/tree/master/0912-sort-an-array) |
 ## Sorting
@@ -332,6 +334,7 @@ This is just the beginning. 🌱
 | [0100-same-tree](https://github.com/Dhruv-byte-png/DSA_/tree/master/0100-same-tree) |
 | [0102-binary-tree-level-order-traversal](https://github.com/Dhruv-byte-png/DSA_/tree/master/0102-binary-tree-level-order-traversal) |
 | [0104-maximum-depth-of-binary-tree](https://github.com/Dhruv-byte-png/DSA_/tree/master/0104-maximum-depth-of-binary-tree) |
+| [0108-convert-sorted-array-to-binary-search-tree](https://github.com/Dhruv-byte-png/DSA_/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 | [0110-balanced-binary-tree](https://github.com/Dhruv-byte-png/DSA_/tree/master/0110-balanced-binary-tree) |
 | [0111-minimum-depth-of-binary-tree](https://github.com/Dhruv-byte-png/DSA_/tree/master/0111-minimum-depth-of-binary-tree) |
 | [0112-path-sum](https://github.com/Dhruv-byte-png/DSA_/tree/master/0112-path-sum) |
@@ -356,6 +359,7 @@ This is just the beginning. 🌱
 | [0100-same-tree](https://github.com/Dhruv-byte-png/DSA_/tree/master/0100-same-tree) |
 | [0102-binary-tree-level-order-traversal](https://github.com/Dhruv-byte-png/DSA_/tree/master/0102-binary-tree-level-order-traversal) |
 | [0104-maximum-depth-of-binary-tree](https://github.com/Dhruv-byte-png/DSA_/tree/master/0104-maximum-depth-of-binary-tree) |
+| [0108-convert-sorted-array-to-binary-search-tree](https://github.com/Dhruv-byte-png/DSA_/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 | [0110-balanced-binary-tree](https://github.com/Dhruv-byte-png/DSA_/tree/master/0110-balanced-binary-tree) |
 | [0111-minimum-depth-of-binary-tree](https://github.com/Dhruv-byte-png/DSA_/tree/master/0111-minimum-depth-of-binary-tree) |
 | [0112-path-sum](https://github.com/Dhruv-byte-png/DSA_/tree/master/0112-path-sum) |
@@ -379,5 +383,6 @@ This is just the beginning. 🌱
 ## Binary Search Tree
 |  |
 | ------- |
+| [0108-convert-sorted-array-to-binary-search-tree](https://github.com/Dhruv-byte-png/DSA_/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 | [0700-search-in-a-binary-search-tree](https://github.com/Dhruv-byte-png/DSA_/tree/master/0700-search-in-a-binary-search-tree) |
 <!---LeetCode Topics End-->
