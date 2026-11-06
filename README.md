@@ -62,6 +62,7 @@ This is just the beginning. 🌱
 | [0279-perfect-squares](https://github.com/Dhruv-byte-png/DSA_/tree/master/0279-perfect-squares) |
 | [0292-nim-game](https://github.com/Dhruv-byte-png/DSA_/tree/master/0292-nim-game) |
 | [0523-continuous-subarray-sum](https://github.com/Dhruv-byte-png/DSA_/tree/master/0523-continuous-subarray-sum) |
+| [0593-valid-square](https://github.com/Dhruv-byte-png/DSA_/tree/master/0593-valid-square) |
 | [0836-rectangle-overlap](https://github.com/Dhruv-byte-png/DSA_/tree/master/0836-rectangle-overlap) |
 | [1290-convert-binary-number-in-a-linked-list-to-integer](https://github.com/Dhruv-byte-png/DSA_/tree/master/1290-convert-binary-number-in-a-linked-list-to-integer) |
 | [1688-count-of-matches-in-tournament](https://github.com/Dhruv-byte-png/DSA_/tree/master/1688-count-of-matches-in-tournament) |
@@ -250,6 +251,7 @@ This is just the beginning. 🌱
 ## Geometry
 |  |
 | ------- |
+| [0593-valid-square](https://github.com/Dhruv-byte-png/DSA_/tree/master/0593-valid-square) |
 | [0836-rectangle-overlap](https://github.com/Dhruv-byte-png/DSA_/tree/master/0836-rectangle-overlap) |
 ## Boyer–Moore Majority Vote Algorithm
 |  |
