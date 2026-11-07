@@ -387,4 +387,8 @@ This is just the beginning. 🌱
 | ------- |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/Dhruv-byte-png/DSA_/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 | [0700-search-in-a-binary-search-tree](https://github.com/Dhruv-byte-png/DSA_/tree/master/0700-search-in-a-binary-search-tree) |
+## Database
+|  |
+| ------- |
+| [0182-duplicate-emails](https://github.com/Dhruv-byte-png/DSA_/tree/master/0182-duplicate-emails) |
 <!---LeetCode Topics End-->
