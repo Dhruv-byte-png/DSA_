@@ -29,6 +29,7 @@ This is just the beginning. 🌱
 | [0494-target-sum](https://github.com/Dhruv-byte-png/DSA_/tree/master/0494-target-sum) |
 | [0523-continuous-subarray-sum](https://github.com/Dhruv-byte-png/DSA_/tree/master/0523-continuous-subarray-sum) |
 | [0643-maximum-average-subarray-i](https://github.com/Dhruv-byte-png/DSA_/tree/master/0643-maximum-average-subarray-i) |
+| [0658-find-k-closest-elements](https://github.com/Dhruv-byte-png/DSA_/tree/master/0658-find-k-closest-elements) |
 | [0704-binary-search](https://github.com/Dhruv-byte-png/DSA_/tree/master/0704-binary-search) |
 | [0724-find-pivot-index](https://github.com/Dhruv-byte-png/DSA_/tree/master/0724-find-pivot-index) |
 | [0744-find-smallest-letter-greater-than-target](https://github.com/Dhruv-byte-png/DSA_/tree/master/0744-find-smallest-letter-greater-than-target) |
@@ -102,6 +103,7 @@ This is just the beginning. 🌱
 | [0347-top-k-frequent-elements](https://github.com/Dhruv-byte-png/DSA_/tree/master/0347-top-k-frequent-elements) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/Dhruv-byte-png/DSA_/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/Dhruv-byte-png/DSA_/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
+| [0658-find-k-closest-elements](https://github.com/Dhruv-byte-png/DSA_/tree/master/0658-find-k-closest-elements) |
 | [0905-sort-array-by-parity](https://github.com/Dhruv-byte-png/DSA_/tree/master/0905-sort-array-by-parity) |
 | [0912-sort-an-array](https://github.com/Dhruv-byte-png/DSA_/tree/master/0912-sort-an-array) |
 | [1122-relative-sort-array](https://github.com/Dhruv-byte-png/DSA_/tree/master/1122-relative-sort-array) |
@@ -114,6 +116,7 @@ This is just the beginning. 🌱
 | ------- |
 | [0347-top-k-frequent-elements](https://github.com/Dhruv-byte-png/DSA_/tree/master/0347-top-k-frequent-elements) |
 | [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/Dhruv-byte-png/DSA_/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
+| [0658-find-k-closest-elements](https://github.com/Dhruv-byte-png/DSA_/tree/master/0658-find-k-closest-elements) |
 | [0912-sort-an-array](https://github.com/Dhruv-byte-png/DSA_/tree/master/0912-sort-an-array) |
 ## Bucket Sort
 |  |
@@ -171,6 +174,7 @@ This is just the beginning. 🌱
 | [0345-reverse-vowels-of-a-string](https://github.com/Dhruv-byte-png/DSA_/tree/master/0345-reverse-vowels-of-a-string) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/Dhruv-byte-png/DSA_/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0541-reverse-string-ii](https://github.com/Dhruv-byte-png/DSA_/tree/master/0541-reverse-string-ii) |
+| [0658-find-k-closest-elements](https://github.com/Dhruv-byte-png/DSA_/tree/master/0658-find-k-closest-elements) |
 | [0680-valid-palindrome-ii](https://github.com/Dhruv-byte-png/DSA_/tree/master/0680-valid-palindrome-ii) |
 | [0876-middle-of-the-linked-list](https://github.com/Dhruv-byte-png/DSA_/tree/master/0876-middle-of-the-linked-list) |
 | [0905-sort-array-by-parity](https://github.com/Dhruv-byte-png/DSA_/tree/master/0905-sort-array-by-parity) |
@@ -254,6 +258,7 @@ This is just the beginning. 🌱
 | [0287-find-the-duplicate-number](https://github.com/Dhruv-byte-png/DSA_/tree/master/0287-find-the-duplicate-number) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/Dhruv-byte-png/DSA_/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/Dhruv-byte-png/DSA_/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
+| [0658-find-k-closest-elements](https://github.com/Dhruv-byte-png/DSA_/tree/master/0658-find-k-closest-elements) |
 | [0704-binary-search](https://github.com/Dhruv-byte-png/DSA_/tree/master/0704-binary-search) |
 | [0744-find-smallest-letter-greater-than-target](https://github.com/Dhruv-byte-png/DSA_/tree/master/0744-find-smallest-letter-greater-than-target) |
 | [1385-find-the-distance-value-between-two-arrays](https://github.com/Dhruv-byte-png/DSA_/tree/master/1385-find-the-distance-value-between-two-arrays) |
@@ -383,6 +388,7 @@ This is just the beginning. 🌱
 |  |
 | ------- |
 | [0643-maximum-average-subarray-i](https://github.com/Dhruv-byte-png/DSA_/tree/master/0643-maximum-average-subarray-i) |
+| [0658-find-k-closest-elements](https://github.com/Dhruv-byte-png/DSA_/tree/master/0658-find-k-closest-elements) |
 ## Backtracking
 |  |
 | ------- |
