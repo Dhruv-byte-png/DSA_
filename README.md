@@ -161,6 +161,7 @@ This is just the beginning. 🌱
 | [0328-odd-even-linked-list](https://github.com/Dhruv-byte-png/DSA_/tree/master/0328-odd-even-linked-list) |
 | [0876-middle-of-the-linked-list](https://github.com/Dhruv-byte-png/DSA_/tree/master/0876-middle-of-the-linked-list) |
 | [1290-convert-binary-number-in-a-linked-list-to-integer](https://github.com/Dhruv-byte-png/DSA_/tree/master/1290-convert-binary-number-in-a-linked-list-to-integer) |
+| [2095-delete-the-middle-node-of-a-linked-list](https://github.com/Dhruv-byte-png/DSA_/tree/master/2095-delete-the-middle-node-of-a-linked-list) |
 ## Two Pointers
 |  |
 | ------- |
@@ -180,6 +181,7 @@ This is just the beginning. 🌱
 | [0905-sort-array-by-parity](https://github.com/Dhruv-byte-png/DSA_/tree/master/0905-sort-array-by-parity) |
 | [1089-duplicate-zeros](https://github.com/Dhruv-byte-png/DSA_/tree/master/1089-duplicate-zeros) |
 | [1385-find-the-distance-value-between-two-arrays](https://github.com/Dhruv-byte-png/DSA_/tree/master/1385-find-the-distance-value-between-two-arrays) |
+| [2095-delete-the-middle-node-of-a-linked-list](https://github.com/Dhruv-byte-png/DSA_/tree/master/2095-delete-the-middle-node-of-a-linked-list) |
 | [2396-strictly-palindromic-number](https://github.com/Dhruv-byte-png/DSA_/tree/master/2396-strictly-palindromic-number) |
 ## Brainteaser
 |  |
