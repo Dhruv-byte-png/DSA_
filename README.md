@@ -50,6 +50,7 @@ This is just the beginning. 🌱
 | [1991-find-the-middle-index-in-array](https://github.com/Dhruv-byte-png/DSA_/tree/master/1991-find-the-middle-index-in-array) |
 | [2404-most-frequent-even-element](https://github.com/Dhruv-byte-png/DSA_/tree/master/2404-most-frequent-even-element) |
 | [2778-sum-of-squares-of-special-elements](https://github.com/Dhruv-byte-png/DSA_/tree/master/2778-sum-of-squares-of-special-elements) |
+| [3105-longest-strictly-increasing-or-strictly-decreasing-subarray](https://github.com/Dhruv-byte-png/DSA_/tree/master/3105-longest-strictly-increasing-or-strictly-decreasing-subarray) |
 | [3483-unique-3-digit-even-numbers](https://github.com/Dhruv-byte-png/DSA_/tree/master/3483-unique-3-digit-even-numbers) |
 | [3736-minimum-moves-to-equal-array-elements-iii](https://github.com/Dhruv-byte-png/DSA_/tree/master/3736-minimum-moves-to-equal-array-elements-iii) |
 | [3876-construct-uniform-parity-array-ii](https://github.com/Dhruv-byte-png/DSA_/tree/master/3876-construct-uniform-parity-array-ii) |
