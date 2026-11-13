@@ -56,6 +56,7 @@ This is just the beginning. 🌱
 | [3876-construct-uniform-parity-array-ii](https://github.com/Dhruv-byte-png/DSA_/tree/master/3876-construct-uniform-parity-array-ii) |
 | [3903-smallest-stable-index-i](https://github.com/Dhruv-byte-png/DSA_/tree/master/3903-smallest-stable-index-i) |
 | [3904-smallest-stable-index-ii](https://github.com/Dhruv-byte-png/DSA_/tree/master/3904-smallest-stable-index-ii) |
+| [3940-limit-occurrences-in-sorted-array](https://github.com/Dhruv-byte-png/DSA_/tree/master/3940-limit-occurrences-in-sorted-array) |
 ## Math
 |  |
 | ------- |
@@ -184,6 +185,7 @@ This is just the beginning. 🌱
 | [1385-find-the-distance-value-between-two-arrays](https://github.com/Dhruv-byte-png/DSA_/tree/master/1385-find-the-distance-value-between-two-arrays) |
 | [2095-delete-the-middle-node-of-a-linked-list](https://github.com/Dhruv-byte-png/DSA_/tree/master/2095-delete-the-middle-node-of-a-linked-list) |
 | [2396-strictly-palindromic-number](https://github.com/Dhruv-byte-png/DSA_/tree/master/2396-strictly-palindromic-number) |
+| [3940-limit-occurrences-in-sorted-array](https://github.com/Dhruv-byte-png/DSA_/tree/master/3940-limit-occurrences-in-sorted-array) |
 ## Brainteaser
 |  |
 | ------- |
