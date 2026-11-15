@@ -69,6 +69,7 @@ This is just the beginning. 🌱
 | [0593-valid-square](https://github.com/Dhruv-byte-png/DSA_/tree/master/0593-valid-square) |
 | [0836-rectangle-overlap](https://github.com/Dhruv-byte-png/DSA_/tree/master/0836-rectangle-overlap) |
 | [1290-convert-binary-number-in-a-linked-list-to-integer](https://github.com/Dhruv-byte-png/DSA_/tree/master/1290-convert-binary-number-in-a-linked-list-to-integer) |
+| [1323-maximum-69-number](https://github.com/Dhruv-byte-png/DSA_/tree/master/1323-maximum-69-number) |
 | [1688-count-of-matches-in-tournament](https://github.com/Dhruv-byte-png/DSA_/tree/master/1688-count-of-matches-in-tournament) |
 | [2396-strictly-palindromic-number](https://github.com/Dhruv-byte-png/DSA_/tree/master/2396-strictly-palindromic-number) |
 | [2443-sum-of-number-and-its-reverse](https://github.com/Dhruv-byte-png/DSA_/tree/master/2443-sum-of-number-and-its-reverse) |
@@ -312,6 +313,7 @@ This is just the beginning. 🌱
 | [0680-valid-palindrome-ii](https://github.com/Dhruv-byte-png/DSA_/tree/master/0680-valid-palindrome-ii) |
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/Dhruv-byte-png/DSA_/tree/master/0921-minimum-add-to-make-parentheses-valid) |
 | [1262-greatest-sum-divisible-by-three](https://github.com/Dhruv-byte-png/DSA_/tree/master/1262-greatest-sum-divisible-by-three) |
+| [1323-maximum-69-number](https://github.com/Dhruv-byte-png/DSA_/tree/master/1323-maximum-69-number) |
 ## Stack
 |  |
 | ------- |
