@@ -247,6 +247,7 @@ This is just the beginning. 🌱
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/Dhruv-byte-png/DSA_/tree/master/0921-minimum-add-to-make-parentheses-valid) |
 | [0929-unique-email-addresses](https://github.com/Dhruv-byte-png/DSA_/tree/master/0929-unique-email-addresses) |
 | [1021-remove-outermost-parentheses](https://github.com/Dhruv-byte-png/DSA_/tree/master/1021-remove-outermost-parentheses) |
+| [2243-calculate-digit-sum-of-a-string](https://github.com/Dhruv-byte-png/DSA_/tree/master/2243-calculate-digit-sum-of-a-string) |
 | [3498-reverse-degree-of-a-string](https://github.com/Dhruv-byte-png/DSA_/tree/master/3498-reverse-degree-of-a-string) |
 ## Counting Sort
 |  |
@@ -284,6 +285,7 @@ This is just the beginning. 🌱
 | ------- |
 | [1441-build-an-array-with-stack-operations](https://github.com/Dhruv-byte-png/DSA_/tree/master/1441-build-an-array-with-stack-operations) |
 | [1688-count-of-matches-in-tournament](https://github.com/Dhruv-byte-png/DSA_/tree/master/1688-count-of-matches-in-tournament) |
+| [2243-calculate-digit-sum-of-a-string](https://github.com/Dhruv-byte-png/DSA_/tree/master/2243-calculate-digit-sum-of-a-string) |
 | [3498-reverse-degree-of-a-string](https://github.com/Dhruv-byte-png/DSA_/tree/master/3498-reverse-degree-of-a-string) |
 ## Bit Manipulation
 |  |
