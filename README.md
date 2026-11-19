@@ -250,6 +250,7 @@ This is just the beginning. 🌱
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/Dhruv-byte-png/DSA_/tree/master/0921-minimum-add-to-make-parentheses-valid) |
 | [0929-unique-email-addresses](https://github.com/Dhruv-byte-png/DSA_/tree/master/0929-unique-email-addresses) |
 | [1021-remove-outermost-parentheses](https://github.com/Dhruv-byte-png/DSA_/tree/master/1021-remove-outermost-parentheses) |
+| [1668-maximum-repeating-substring](https://github.com/Dhruv-byte-png/DSA_/tree/master/1668-maximum-repeating-substring) |
 | [2085-count-common-words-with-one-occurrence](https://github.com/Dhruv-byte-png/DSA_/tree/master/2085-count-common-words-with-one-occurrence) |
 | [2243-calculate-digit-sum-of-a-string](https://github.com/Dhruv-byte-png/DSA_/tree/master/2243-calculate-digit-sum-of-a-string) |
 | [3498-reverse-degree-of-a-string](https://github.com/Dhruv-byte-png/DSA_/tree/master/3498-reverse-degree-of-a-string) |
@@ -312,6 +313,7 @@ This is just the beginning. 🌱
 | [0279-perfect-squares](https://github.com/Dhruv-byte-png/DSA_/tree/master/0279-perfect-squares) |
 | [0494-target-sum](https://github.com/Dhruv-byte-png/DSA_/tree/master/0494-target-sum) |
 | [1262-greatest-sum-divisible-by-three](https://github.com/Dhruv-byte-png/DSA_/tree/master/1262-greatest-sum-divisible-by-three) |
+| [1668-maximum-repeating-substring](https://github.com/Dhruv-byte-png/DSA_/tree/master/1668-maximum-repeating-substring) |
 | [1749-maximum-absolute-sum-of-any-subarray](https://github.com/Dhruv-byte-png/DSA_/tree/master/1749-maximum-absolute-sum-of-any-subarray) |
 ## Greedy
 |  |
@@ -429,4 +431,8 @@ This is just the beginning. 🌱
 |  |
 | ------- |
 | [0182-duplicate-emails](https://github.com/Dhruv-byte-png/DSA_/tree/master/0182-duplicate-emails) |
+## String Matching
+|  |
+| ------- |
+| [1668-maximum-repeating-substring](https://github.com/Dhruv-byte-png/DSA_/tree/master/1668-maximum-repeating-substring) |
 <!---LeetCode Topics End-->
