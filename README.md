@@ -47,6 +47,7 @@ This is just the beginning. 🌱
 | [1752-check-if-array-is-sorted-and-rotated](https://github.com/Dhruv-byte-png/DSA_/tree/master/1752-check-if-array-is-sorted-and-rotated) |
 | [1848-minimum-distance-to-the-target-element](https://github.com/Dhruv-byte-png/DSA_/tree/master/1848-minimum-distance-to-the-target-element) |
 | [1913-maximum-product-difference-between-two-pairs](https://github.com/Dhruv-byte-png/DSA_/tree/master/1913-maximum-product-difference-between-two-pairs) |
+| [1979-find-greatest-common-divisor-of-array](https://github.com/Dhruv-byte-png/DSA_/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [1991-find-the-middle-index-in-array](https://github.com/Dhruv-byte-png/DSA_/tree/master/1991-find-the-middle-index-in-array) |
 | [2085-count-common-words-with-one-occurrence](https://github.com/Dhruv-byte-png/DSA_/tree/master/2085-count-common-words-with-one-occurrence) |
 | [2404-most-frequent-even-element](https://github.com/Dhruv-byte-png/DSA_/tree/master/2404-most-frequent-even-element) |
@@ -72,6 +73,7 @@ This is just the beginning. 🌱
 | [1290-convert-binary-number-in-a-linked-list-to-integer](https://github.com/Dhruv-byte-png/DSA_/tree/master/1290-convert-binary-number-in-a-linked-list-to-integer) |
 | [1323-maximum-69-number](https://github.com/Dhruv-byte-png/DSA_/tree/master/1323-maximum-69-number) |
 | [1688-count-of-matches-in-tournament](https://github.com/Dhruv-byte-png/DSA_/tree/master/1688-count-of-matches-in-tournament) |
+| [1979-find-greatest-common-divisor-of-array](https://github.com/Dhruv-byte-png/DSA_/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [2396-strictly-palindromic-number](https://github.com/Dhruv-byte-png/DSA_/tree/master/2396-strictly-palindromic-number) |
 | [2443-sum-of-number-and-its-reverse](https://github.com/Dhruv-byte-png/DSA_/tree/master/2443-sum-of-number-and-its-reverse) |
 | [3736-minimum-moves-to-equal-array-elements-iii](https://github.com/Dhruv-byte-png/DSA_/tree/master/3736-minimum-moves-to-equal-array-elements-iii) |
@@ -435,4 +437,16 @@ This is just the beginning. 🌱
 |  |
 | ------- |
 | [1668-maximum-repeating-substring](https://github.com/Dhruv-byte-png/DSA_/tree/master/1668-maximum-repeating-substring) |
+## Number Theory
+|  |
+| ------- |
+| [1979-find-greatest-common-divisor-of-array](https://github.com/Dhruv-byte-png/DSA_/tree/master/1979-find-greatest-common-divisor-of-array) |
+## Euclidean Algorithm
+|  |
+| ------- |
+| [1979-find-greatest-common-divisor-of-array](https://github.com/Dhruv-byte-png/DSA_/tree/master/1979-find-greatest-common-divisor-of-array) |
+## Greatest Common Divisor
+|  |
+| ------- |
+| [1979-find-greatest-common-divisor-of-array](https://github.com/Dhruv-byte-png/DSA_/tree/master/1979-find-greatest-common-divisor-of-array) |
 <!---LeetCode Topics End-->
