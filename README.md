@@ -43,6 +43,7 @@ This is just the beginning. 🌱
 | [1385-find-the-distance-value-between-two-arrays](https://github.com/Dhruv-byte-png/DSA_/tree/master/1385-find-the-distance-value-between-two-arrays) |
 | [1441-build-an-array-with-stack-operations](https://github.com/Dhruv-byte-png/DSA_/tree/master/1441-build-an-array-with-stack-operations) |
 | [1636-sort-array-by-increasing-frequency](https://github.com/Dhruv-byte-png/DSA_/tree/master/1636-sort-array-by-increasing-frequency) |
+| [1748-sum-of-unique-elements](https://github.com/Dhruv-byte-png/DSA_/tree/master/1748-sum-of-unique-elements) |
 | [1749-maximum-absolute-sum-of-any-subarray](https://github.com/Dhruv-byte-png/DSA_/tree/master/1749-maximum-absolute-sum-of-any-subarray) |
 | [1752-check-if-array-is-sorted-and-rotated](https://github.com/Dhruv-byte-png/DSA_/tree/master/1752-check-if-array-is-sorted-and-rotated) |
 | [1848-minimum-distance-to-the-target-element](https://github.com/Dhruv-byte-png/DSA_/tree/master/1848-minimum-distance-to-the-target-element) |
@@ -93,6 +94,7 @@ This is just the beginning. 🌱
 | [0929-unique-email-addresses](https://github.com/Dhruv-byte-png/DSA_/tree/master/0929-unique-email-addresses) |
 | [1122-relative-sort-array](https://github.com/Dhruv-byte-png/DSA_/tree/master/1122-relative-sort-array) |
 | [1636-sort-array-by-increasing-frequency](https://github.com/Dhruv-byte-png/DSA_/tree/master/1636-sort-array-by-increasing-frequency) |
+| [1748-sum-of-unique-elements](https://github.com/Dhruv-byte-png/DSA_/tree/master/1748-sum-of-unique-elements) |
 | [2085-count-common-words-with-one-occurrence](https://github.com/Dhruv-byte-png/DSA_/tree/master/2085-count-common-words-with-one-occurrence) |
 | [2404-most-frequent-even-element](https://github.com/Dhruv-byte-png/DSA_/tree/master/2404-most-frequent-even-element) |
 | [3483-unique-3-digit-even-numbers](https://github.com/Dhruv-byte-png/DSA_/tree/master/3483-unique-3-digit-even-numbers) |
@@ -136,6 +138,7 @@ This is just the beginning. 🌱
 | ------- |
 | [0229-majority-element-ii](https://github.com/Dhruv-byte-png/DSA_/tree/master/0229-majority-element-ii) |
 | [0347-top-k-frequent-elements](https://github.com/Dhruv-byte-png/DSA_/tree/master/0347-top-k-frequent-elements) |
+| [1748-sum-of-unique-elements](https://github.com/Dhruv-byte-png/DSA_/tree/master/1748-sum-of-unique-elements) |
 | [2085-count-common-words-with-one-occurrence](https://github.com/Dhruv-byte-png/DSA_/tree/master/2085-count-common-words-with-one-occurrence) |
 | [2404-most-frequent-even-element](https://github.com/Dhruv-byte-png/DSA_/tree/master/2404-most-frequent-even-element) |
 ## Quickselect
