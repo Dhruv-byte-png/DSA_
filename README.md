@@ -35,6 +35,7 @@ This is just the beginning. 🌱
 | [0744-find-smallest-letter-greater-than-target](https://github.com/Dhruv-byte-png/DSA_/tree/master/0744-find-smallest-letter-greater-than-target) |
 | [0896-monotonic-array](https://github.com/Dhruv-byte-png/DSA_/tree/master/0896-monotonic-array) |
 | [0905-sort-array-by-parity](https://github.com/Dhruv-byte-png/DSA_/tree/master/0905-sort-array-by-parity) |
+| [0910-smallest-range-ii](https://github.com/Dhruv-byte-png/DSA_/tree/master/0910-smallest-range-ii) |
 | [0912-sort-an-array](https://github.com/Dhruv-byte-png/DSA_/tree/master/0912-sort-an-array) |
 | [0929-unique-email-addresses](https://github.com/Dhruv-byte-png/DSA_/tree/master/0929-unique-email-addresses) |
 | [1089-duplicate-zeros](https://github.com/Dhruv-byte-png/DSA_/tree/master/1089-duplicate-zeros) |
@@ -72,6 +73,7 @@ This is just the beginning. 🌱
 | [0523-continuous-subarray-sum](https://github.com/Dhruv-byte-png/DSA_/tree/master/0523-continuous-subarray-sum) |
 | [0593-valid-square](https://github.com/Dhruv-byte-png/DSA_/tree/master/0593-valid-square) |
 | [0836-rectangle-overlap](https://github.com/Dhruv-byte-png/DSA_/tree/master/0836-rectangle-overlap) |
+| [0910-smallest-range-ii](https://github.com/Dhruv-byte-png/DSA_/tree/master/0910-smallest-range-ii) |
 | [1290-convert-binary-number-in-a-linked-list-to-integer](https://github.com/Dhruv-byte-png/DSA_/tree/master/1290-convert-binary-number-in-a-linked-list-to-integer) |
 | [1323-maximum-69-number](https://github.com/Dhruv-byte-png/DSA_/tree/master/1323-maximum-69-number) |
 | [1688-count-of-matches-in-tournament](https://github.com/Dhruv-byte-png/DSA_/tree/master/1688-count-of-matches-in-tournament) |
@@ -116,6 +118,7 @@ This is just the beginning. 🌱
 | [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/Dhruv-byte-png/DSA_/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
 | [0658-find-k-closest-elements](https://github.com/Dhruv-byte-png/DSA_/tree/master/0658-find-k-closest-elements) |
 | [0905-sort-array-by-parity](https://github.com/Dhruv-byte-png/DSA_/tree/master/0905-sort-array-by-parity) |
+| [0910-smallest-range-ii](https://github.com/Dhruv-byte-png/DSA_/tree/master/0910-smallest-range-ii) |
 | [0912-sort-an-array](https://github.com/Dhruv-byte-png/DSA_/tree/master/0912-sort-an-array) |
 | [1122-relative-sort-array](https://github.com/Dhruv-byte-png/DSA_/tree/master/1122-relative-sort-array) |
 | [1262-greatest-sum-divisible-by-three](https://github.com/Dhruv-byte-png/DSA_/tree/master/1262-greatest-sum-divisible-by-three) |
@@ -325,6 +328,7 @@ This is just the beginning. 🌱
 |  |
 | ------- |
 | [0680-valid-palindrome-ii](https://github.com/Dhruv-byte-png/DSA_/tree/master/0680-valid-palindrome-ii) |
+| [0910-smallest-range-ii](https://github.com/Dhruv-byte-png/DSA_/tree/master/0910-smallest-range-ii) |
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/Dhruv-byte-png/DSA_/tree/master/0921-minimum-add-to-make-parentheses-valid) |
 | [1262-greatest-sum-divisible-by-three](https://github.com/Dhruv-byte-png/DSA_/tree/master/1262-greatest-sum-divisible-by-three) |
 | [1323-maximum-69-number](https://github.com/Dhruv-byte-png/DSA_/tree/master/1323-maximum-69-number) |
