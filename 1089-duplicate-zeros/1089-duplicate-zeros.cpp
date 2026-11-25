@@ -1,16 +1,20 @@
 class Solution {
 public:
     void duplicateZeros(vector<int>& arr) {
-        int i=0;
-        int n = arr.size();
-
-        while(i<n){
-            if(arr[i] == 0){
-                arr.insert(arr.begin()+i, 0);
-                i+=2;
+        vector<int> ans(arr.size(), 0);
+        int k = 0;
+        for (int num : arr) {
+            if (k == arr.size()) {
+                break;
             }
-            else i++;
+            if (num == 0) {
+                ans[k++] = 0;
+                if (k == arr.size()) break;
+
+                ans[k++] = 0;
+            } 
+            else ans[k++] = num;
         }
-        arr.resize(n);
+        arr = ans;
     }
 };
