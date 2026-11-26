@@ -80,6 +80,7 @@ This is just the beginning. 🌱
 | [1979-find-greatest-common-divisor-of-array](https://github.com/Dhruv-byte-png/DSA_/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [2396-strictly-palindromic-number](https://github.com/Dhruv-byte-png/DSA_/tree/master/2396-strictly-palindromic-number) |
 | [2443-sum-of-number-and-its-reverse](https://github.com/Dhruv-byte-png/DSA_/tree/master/2443-sum-of-number-and-its-reverse) |
+| [3360-stone-removal-game](https://github.com/Dhruv-byte-png/DSA_/tree/master/3360-stone-removal-game) |
 | [3736-minimum-moves-to-equal-array-elements-iii](https://github.com/Dhruv-byte-png/DSA_/tree/master/3736-minimum-moves-to-equal-array-elements-iii) |
 | [3870-count-commas-in-range](https://github.com/Dhruv-byte-png/DSA_/tree/master/3870-count-commas-in-range) |
 | [3876-construct-uniform-parity-array-ii](https://github.com/Dhruv-byte-png/DSA_/tree/master/3876-construct-uniform-parity-array-ii) |
@@ -300,6 +301,7 @@ This is just the beginning. 🌱
 | [1441-build-an-array-with-stack-operations](https://github.com/Dhruv-byte-png/DSA_/tree/master/1441-build-an-array-with-stack-operations) |
 | [1688-count-of-matches-in-tournament](https://github.com/Dhruv-byte-png/DSA_/tree/master/1688-count-of-matches-in-tournament) |
 | [2243-calculate-digit-sum-of-a-string](https://github.com/Dhruv-byte-png/DSA_/tree/master/2243-calculate-digit-sum-of-a-string) |
+| [3360-stone-removal-game](https://github.com/Dhruv-byte-png/DSA_/tree/master/3360-stone-removal-game) |
 | [3498-reverse-degree-of-a-string](https://github.com/Dhruv-byte-png/DSA_/tree/master/3498-reverse-degree-of-a-string) |
 ## Bit Manipulation
 |  |
